@@ -1,0 +1,2 @@
+file,ratio_valid_rank0,rank0_recall@5,rank0_recall@10,rank0_recall@20,mask_recall@5,mask_recall@10,mask_recall@20
+prompt_2_standard,100.00%,37.03%,44.56%,54.32%,39.27%,47.91%,57.99%

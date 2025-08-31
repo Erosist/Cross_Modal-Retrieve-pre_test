@@ -1,0 +1,2 @@
+file,ratio_valid_rank0,rank0_recall@1,rank0_recall@5,rank0_recall@10,rank0_recall@20,mask_recall@1,mask_recall@5,mask_recall@10,mask_recall@20
+random_result,100.00%,24.62%,36.84%,44.34%,54.25%,20.92%,33.93%,39.74%,49.65%

@@ -1,0 +1,8 @@
+{
+  "ratio_valid_rank0": "65.39%",
+  "recall": {
+    "recall@5": "30.63%",
+    "recall@10": "49.76%",
+    "recall@20": "69.91%"
+  }
+}

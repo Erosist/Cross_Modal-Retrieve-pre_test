@@ -1,0 +1,2690 @@
+[
+  {
+    "caption": "A woman is at her oven in a lime green kitchen.",
+    "rank_0": 36,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ _ at her oven in a lime green kitchen"
+  },
+  {
+    "caption": "A woman is at her oven in a lime green kitchen.",
+    "rank_0": 36,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A woman is _ _ _ _ in a lime green kitchen"
+  },
+  {
+    "caption": "Three hanging baskets all with fruit and vegetables.",
+    "rank_0": 6,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "Three hanging _ all with fruit and vegetables."
+  },
+  {
+    "caption": "Three hanging baskets all with fruit and vegetables.",
+    "rank_0": 6,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "Three hanging baskets all with fruit and _."
+  },
+  {
+    "caption": "An American Airlines plane is in the sky",
+    "rank_0": 8,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "An American Airlines plane _ _ _ _"
+  },
+  {
+    "caption": "An American Airlines plane is in the sky",
+    "rank_0": 8,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "An American Airlines _ _ in the sky"
+  },
+  {
+    "caption": "An American Airlines plane is in the sky",
+    "rank_0": 8,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "An American Airlines plane is _ _ _"
+  },
+  {
+    "caption": "closeup of a cat in a bathroom sink",
+    "rank_0": 13,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "closeup of a cat in a _ _ _"
+  },
+  {
+    "caption": "Man sleeping in his bedroom next to a cat.",
+    "rank_0": 11,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "Man sleeping _ _ _ next to a cat."
+  },
+  {
+    "caption": "A living room is arranged so people can watch the television.",
+    "rank_0": 25,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A living room is arranged so people can watch _ _."
+  },
+  {
+    "caption": "Man in air on skateboard at night by light of street lamps.",
+    "rank_0": 6,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "Man in air on skateboard at night by light of _ _ _."
+  },
+  {
+    "caption": "Six people, adults and children, wearing skis and helmets standing or skiing on snow.",
+    "rank_0": 8,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ _ _, adults and children, wearing skis and helmets standing or skiing on snow."
+  },
+  {
+    "caption": "Six people, adults and children, wearing skis and helmets standing or skiing on snow.",
+    "rank_0": 8,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "Six people, adults and children, _ _ _ _ _ standing or skiing on snow."
+  },
+  {
+    "caption": "Six people, adults and children, wearing skis and helmets standing or skiing on snow.",
+    "rank_0": 8,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "Six people, adults and children, wearing skis and helmets _ _ _ _ _ _."
+  },
+  {
+    "caption": "A girl that is standing next to a motorcycle.",
+    "rank_0": 12,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A girl that is standing next to a _ _."
+  },
+  {
+    "caption": "A beautiful new kitchen with natural wood cabinets.",
+    "rank_0": 25,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ _ _ with natural wood cabinets."
+  },
+  {
+    "caption": "An aerial view of the ground from an airplane.",
+    "rank_0": 6,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ view of the ground from an airplane."
+  },
+  {
+    "caption": "A woman is sitting on a stool on a sidewalk.",
+    "rank_0": 7,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ _ sitting on a stool on a sidewalk."
+  },
+  {
+    "caption": "A woman is sitting on a stool on a sidewalk.",
+    "rank_0": 7,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A woman is sitting on a _ on a sidewalk."
+  },
+  {
+    "caption": "A woman is sitting on a stool on a sidewalk.",
+    "rank_0": 7,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A woman _ _ on a stool on a sidewalk."
+  },
+  {
+    "caption": "A Virgin Australia airline on the tarmac. ",
+    "rank_0": 8,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A Virgin Australia airline on _ _."
+  },
+  {
+    "caption": "A Virgin Australia airline on the tarmac. ",
+    "rank_0": 8,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ Virgin Australia airline on the tarmac."
+  },
+  {
+    "caption": "A glass bowl filled with oranges on a table.",
+    "rank_0": 7,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A glass bowl _ _ _ _ on a table."
+  },
+  {
+    "caption": "A little kitten is stuffed into a woman's purse.",
+    "rank_0": 12,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ _ _ is stuffed into a woman's purse."
+  },
+  {
+    "caption": "Several people around some motorcycles on the side of a road.",
+    "rank_0": 9,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ _ around some motorcycles on the side of a road."
+  },
+  {
+    "caption": "Several people around some motorcycles on the side of a road.",
+    "rank_0": 9,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "Several people around _ _ on the side of a road."
+  },
+  {
+    "caption": "Several people around some motorcycles on the side of a road.",
+    "rank_0": 9,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "Several people around some motorcycles on the side of a _."
+  },
+  {
+    "caption": "A busy city street with a bus, taxi, and motorcycle.",
+    "rank_0": 15,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ _ _ _ with a bus, taxi, and motorcycle."
+  },
+  {
+    "caption": "A cat puts her head inside of a toilet. ",
+    "rank_0": 6,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A cat puts _ _ _ _ of a toilet."
+  },
+  {
+    "caption": "A child with a skateboard sitting on the grass and looking at an empty field",
+    "rank_0": 11,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A child with _ _ _ _ on the grass and looking at an empty field"
+  },
+  {
+    "caption": "A desk with two monitors depicting security cameras.",
+    "rank_0": 11,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ _ two monitors depicting security cameras."
+  },
+  {
+    "caption": "A desk with two monitors depicting security cameras.",
+    "rank_0": 11,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A desk with _ _ depicting security cameras."
+  },
+  {
+    "caption": "A woman sitting on a bucket on the side of a street. ",
+    "rank_0": 17,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ sitting on a bucket on the side of a street."
+  },
+  {
+    "caption": "A beautiful dessert waiting to be shared by two people",
+    "rank_0": 14,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A beautiful dessert _ _ _ _ _ by two people"
+  },
+  {
+    "caption": "A man smiles as he stirs his food in the pot.",
+    "rank_0": 8,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A man smiles as he stirs his food _ _ _"
+  },
+  {
+    "caption": "A man smiles as he stirs his food in the pot.",
+    "rank_0": 8,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A man smiles as _ _ _ _ in the pot"
+  },
+  {
+    "caption": "A man smiles as he stirs his food in the pot.",
+    "rank_0": 8,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A man smiles as he stirs his food in the _"
+  },
+  {
+    "caption": "A person walking in the rain while holding an umbrella.",
+    "rank_0": 13,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ _ in the rain while holding an umbrella."
+  },
+  {
+    "caption": "A person walking in the rain while holding an umbrella.",
+    "rank_0": 13,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A person walking in the rain while _ _ an umbrella."
+  },
+  {
+    "caption": "This is an apartment kitchen with white cabinets and appliances.",
+    "rank_0": 20,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "This is an apartment kitchen with white cabinets _ _."
+  },
+  {
+    "caption": "The bathroom has a wall sink, medicine cabinet, toothbrush holder, and bare walls.",
+    "rank_0": 15,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "The bathroom has a _ _, medicine cabinet, toothbrush holder, and bare walls."
+  },
+  {
+    "caption": "Two women riding a motorcycle at night holding a shopping bag.",
+    "rank_0": 10,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "Two women riding a motorcycle at night holding _ _ _."
+  },
+  {
+    "caption": "A man is sitting in a busy area with his bike.",
+    "rank_0": 15,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A man is _ _ _ _ _ with his bike"
+  },
+  {
+    "caption": "A younger man and an older man skiing in the forest.",
+    "rank_0": 13,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ _ _ and an older man skiing in the forest."
+  },
+  {
+    "caption": "A futuristic car and a motorcycle parked next to each other. ",
+    "rank_0": 15,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ _ _ and a motorcycle parked next to each other."
+  },
+  {
+    "caption": "A bus, riksha, and two men on a scooter all on the same road. ",
+    "rank_0": 8,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A bus, riksha, and _ _ _ _ _ all on the same road."
+  },
+  {
+    "caption": "A blue eyed tabby cat crouched on the ground. ",
+    "rank_0": 6,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A blue eyed tabby cat _ _ _ _ _ _."
+  },
+  {
+    "caption": "A blue eyed tabby cat crouched on the ground. ",
+    "rank_0": 6,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A blue eyed tabby cat crouched on the _."
+  },
+  {
+    "caption": "A pinewood and green modern themed kitchen area.",
+    "rank_0": 9,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ _ and green modern themed kitchen area."
+  },
+  {
+    "caption": "A display of vintage animal toys on the floor.",
+    "rank_0": 6,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ _ vintage animal toys on the floor"
+  },
+  {
+    "caption": "A display of vintage animal toys on the floor.",
+    "rank_0": 6,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A display of vintage animal toys _ _ _"
+  },
+  {
+    "caption": "A display of vintage animal toys on the floor.",
+    "rank_0": 6,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A display of vintage animal toys on the _"
+  },
+  {
+    "caption": "A cozy living room scene features easy chairs and a large television.",
+    "rank_0": 25,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ _ _ scene features easy chairs and a large television."
+  },
+  {
+    "caption": "A BMW motor cycle parked next to shrub..",
+    "rank_0": 39,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A BMW motor cycle _ _ _ _ _."
+  },
+  {
+    "caption": "Dogs stick their heads out of car windows",
+    "rank_0": 10,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ _ their heads out of car windows"
+  },
+  {
+    "caption": "Dogs stick their heads out of car windows",
+    "rank_0": 10,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "Dogs _ _ _ _ out of car windows"
+  },
+  {
+    "caption": "A dog driving an SUV in an open grass covered field.",
+    "rank_0": 20,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ _ _ an SUV in an open grass covered field"
+  },
+  {
+    "caption": "A man relaxing at home, watching television with his dog.",
+    "rank_0": 6,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ _ at home, watching television with his dog."
+  },
+  {
+    "caption": "A scooter is parked behind a red car.",
+    "rank_0": 17,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ _ _ behind a red car."
+  },
+  {
+    "caption": "A scooter is parked behind a red car.",
+    "rank_0": 17,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ is parked behind a red car."
+  },
+  {
+    "caption": "A fancy bathroom with double mirrors and sinks.",
+    "rank_0": 15,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A fancy bathroom with _ _ and sinks"
+  },
+  {
+    "caption": "A green car on display next to a busy street.",
+    "rank_0": 7,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A green car on display next to a _ _."
+  },
+  {
+    "caption": "A green car on display next to a busy street.",
+    "rank_0": 7,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A green car on display _ _ _ _ _."
+  },
+  {
+    "caption": "People riding on top of elephants that are walking in a line across a road. ",
+    "rank_0": 15,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "People _ _ _ _ of elephants that are walking in a line across a road."
+  },
+  {
+    "caption": "An old man standing in a kitchen posing for a picture.",
+    "rank_0": 22,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "An old man _ _ _ _ posing for a picture."
+  },
+  {
+    "caption": "Motorcyclist is taking a turn while onlookers observe ",
+    "rank_0": 13,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ _ taking a turn while onlookers observe"
+  },
+  {
+    "caption": "A city street with people walking and vehicles on the road.",
+    "rank_0": 12,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A city street with people walking and vehicles _ _ _."
+  },
+  {
+    "caption": "Children's toy animals are strewn across a floor.",
+    "rank_0": 29,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "Children's toy animals _ _ _ _ _ _ _."
+  },
+  {
+    "caption": "The coconut cake on a red plate is half gone.",
+    "rank_0": 8,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "The coconut cake on a _ _ is half gone."
+  },
+  {
+    "caption": "The coconut cake on a red plate is half gone.",
+    "rank_0": 8,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "The coconut cake on a red plate _ _ _."
+  },
+  {
+    "caption": "The coconut cake on a red plate is half gone.",
+    "rank_0": 8,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "The coconut cake on a red plate is _ _."
+  },
+  {
+    "caption": "A black and white photograph of a motorcycle.",
+    "rank_0": 12,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ _ _ photograph of a motorcycle"
+  },
+  {
+    "caption": "A cow standing by a damaged car in a field.",
+    "rank_0": 8,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ _ _ by a damaged car in a field."
+  },
+  {
+    "caption": "A cow standing by a damaged car in a field.",
+    "rank_0": 8,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A cow standing by a damaged car _ _ _."
+  },
+  {
+    "caption": "A cow standing by a damaged car in a field.",
+    "rank_0": 8,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "A cow _ _ _ a damaged car in a field."
+  },
+  {
+    "caption": "A giraffe and a zebra are on a grassy field by the water.",
+    "rank_0": 8,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A giraffe and a zebra are on a grassy field by the _"
+  },
+  {
+    "caption": "a person riding skis in the middle of a snowy street",
+    "rank_0": 6,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ riding skis in the middle of a snowy street"
+  },
+  {
+    "caption": "A sign for an Italian restaurant hangs outside a building.",
+    "rank_0": 26,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ _ _ _ an Italian restaurant hangs outside a building"
+  },
+  {
+    "caption": "Trees ring a cathedral with clock tower and elaborate turrets.",
+    "rank_0": 41,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "Trees ring a cathedral with _ _ and elaborate turrets."
+  },
+  {
+    "caption": "A person sitting on a stool on the street.",
+    "rank_0": 25,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ _ on a stool on the street"
+  },
+  {
+    "caption": "four urinals in a public restroom with a window",
+    "rank_0": 40,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ _ in a public restroom with a window"
+  },
+  {
+    "caption": "A sign outside of a restaurant for Italian food. ",
+    "rank_0": 19,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ _ outside of a restaurant for Italian food."
+  },
+  {
+    "caption": "A desktop with two computers and fruit on it.",
+    "rank_0": 16,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A desktop with _ _ and fruit on it."
+  },
+  {
+    "caption": "A parked motorcycle with a red enclosed side car.",
+    "rank_0": 13,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ _ _ with a red enclosed side car."
+  },
+  {
+    "caption": "A parked motorcycle with a red enclosed side car.",
+    "rank_0": 13,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ parked motorcycle with a red enclosed side car."
+  },
+  {
+    "caption": "A fireplace with a fire built in it.",
+    "rank_0": 8,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "A fireplace with a fire _ _ _ _."
+  },
+  {
+    "caption": "A skateboarder wearing a plaid shirt and jeans.",
+    "rank_0": 29,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ wearing a plaid shirt and jeans."
+  },
+  {
+    "caption": "A toilet in a stall with remote control buttons.",
+    "rank_0": 7,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ _ _ _ _ with remote control buttons."
+  },
+  {
+    "caption": "A toilet in a stall with remote control buttons.",
+    "rank_0": 7,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A toilet _ _ _ _ with remote control buttons."
+  },
+  {
+    "caption": "A man looking out the back window of his truck.",
+    "rank_0": 8,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A man _ _ _ the back window of his truck."
+  },
+  {
+    "caption": "Grey house cat devours a song bird on a door step",
+    "rank_0": 11,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ _ devours a song bird on a door step"
+  },
+  {
+    "caption": "A person walking in the rain on the sidewalk. ",
+    "rank_0": 20,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ _ in the rain on the sidewalk"
+  },
+  {
+    "caption": "Cars try to maneuver into parking spaces along a densely packed city street. ",
+    "rank_0": 7,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ _ to maneuver into parking spaces along a densely packed city street"
+  },
+  {
+    "caption": "Cars try to maneuver into parking spaces along a densely packed city street. ",
+    "rank_0": 7,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "Cars try to _ _ _ _ parking spaces along a densely packed city street"
+  },
+  {
+    "caption": "A couple on a motorcycle in front of a bus and a metermaid car",
+    "rank_0": 22,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ on a motorcycle in front of a bus and a metermaid car"
+  },
+  {
+    "caption": "A cat is at an opening between two doors.",
+    "rank_0": 8,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ _ _ at an opening between two doors."
+  },
+  {
+    "caption": "A woman is taking a picture of herself in a bathroom mirror.",
+    "rank_0": 24,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A woman is _ _ _ _ of herself in a bathroom mirror."
+  },
+  {
+    "caption": "A dog with goggles is in a motorcycle side car.",
+    "rank_0": 6,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A dog with _ _ _ in a motorcycle side car"
+  },
+  {
+    "caption": "A dog with goggles is in a motorcycle side car.",
+    "rank_0": 6,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A dog with goggles is in a _ _ _ _"
+  },
+  {
+    "caption": "A dog with goggles is in a motorcycle side car.",
+    "rank_0": 6,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A dog with goggles is _ _ motorcycle side car"
+  },
+  {
+    "caption": "This is a parking garage with several signs.",
+    "rank_0": 8,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ _ _ parking garage with several signs"
+  },
+  {
+    "caption": "someone jumping up to get a frisbee out of a tree",
+    "rank_0": 7,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "someone jumping up to _ _ _ _ out of a tree"
+  },
+  {
+    "caption": "Hot Wheels prop car in a studio exhibit.",
+    "rank_0": 9,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "Hot Wheels prop car _ _ _ _"
+  },
+  {
+    "caption": "Hot Wheels prop car in a studio exhibit.",
+    "rank_0": 9,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "Hot Wheels prop car in a _ _"
+  },
+  {
+    "caption": "A girl observes a life size toy kitchen.",
+    "rank_0": 18,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A girl observes a life size toy _ _"
+  },
+  {
+    "caption": "Some toy animals on the ground near a picture",
+    "rank_0": 22,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "Some toy animals _ _ _ near a picture"
+  },
+  {
+    "caption": "Creamy cheesecake dessert with whip cream and caramel.",
+    "rank_0": 12,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ cheesecake dessert with whip cream and caramel."
+  },
+  {
+    "caption": "A bathroom vanity with cabinets and basin sink and several grooming products scattered across it",
+    "rank_0": 8,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ _ with cabinets and basin sink and several grooming products scattered across it"
+  },
+  {
+    "caption": "A cow stands in the mud next to a car.",
+    "rank_0": 10,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ _ _ in the mud next to a car"
+  },
+  {
+    "caption": "A person holding a skateboard overlooks a dead field of crops.",
+    "rank_0": 20,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A person holding a _ _ overlooks a dead field of crops"
+  },
+  {
+    "caption": "A cat in between two cars in a parking lot.",
+    "rank_0": 8,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A cat in _ _ _ _ in a parking lot."
+  },
+  {
+    "caption": "A skateboarder is riding his skateboard at night.",
+    "rank_0": 33,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ is riding his skateboard at night."
+  },
+  {
+    "caption": "A car is parked on dry grass with kites overhead.",
+    "rank_0": 49,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A car is parked on dry grass with _ _"
+  },
+  {
+    "caption": "A kitchen is shown with wooden cabinets and a wooden celling.",
+    "rank_0": 30,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ _ _ with wooden cabinets and a wooden celling"
+  },
+  {
+    "caption": "A kitchen is shown with wooden cabinets and a wooden celling.",
+    "rank_0": 30,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A kitchen _ _ _ wooden cabinets and a wooden celling"
+  },
+  {
+    "caption": "The young man is stirring his pot of food with a wooden spoon.",
+    "rank_0": 12,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ _ _ is stirring his pot of food with a wooden spoon."
+  },
+  {
+    "caption": "A bathroom with only a toilet and tub with the wall covered in plastic",
+    "rank_0": 7,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "A bathroom with _ _ _ _ _ _ with the wall covered in plastic"
+  },
+  {
+    "caption": "A car stopped at the front of the stop light. ",
+    "rank_0": 13,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A car stopped at the front of the _ _ _."
+  },
+  {
+    "caption": "The car is at the intersection while the sun is setting.",
+    "rank_0": 8,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "The car is at the intersection while the sun is _ _."
+  },
+  {
+    "caption": "The car is at the intersection while the sun is setting.",
+    "rank_0": 8,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "The car is at the intersection while _ _ is setting."
+  },
+  {
+    "caption": "A woman is at her oven in a lime green kitchen.",
+    "rank_0": 36,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "_ _ _ at her oven in a lime green kitchen"
+  },
+  {
+    "caption": "A woman is at her oven in a lime green kitchen.",
+    "rank_0": 36,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "A woman is _ _ _ _ in a lime green kitchen"
+  },
+  {
+    "caption": "closeup of a cat in a bathroom sink",
+    "rank_0": 13,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "closeup of a cat in a _ _ _"
+  },
+  {
+    "caption": "Man sleeping in his bedroom next to a cat.",
+    "rank_0": 11,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "Man sleeping _ _ _ next to a cat."
+  },
+  {
+    "caption": "A striped plane flying up into the sky as the sun shines behind it.",
+    "rank_0": 13,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A striped plane flying up into the sky _ _ _ _ _ _ _ _."
+  },
+  {
+    "caption": "A living room is arranged so people can watch the television.",
+    "rank_0": 25,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "_ _ _ _ is arranged so people can watch the television."
+  },
+  {
+    "caption": "A living room is arranged so people can watch the television.",
+    "rank_0": 25,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A living room is arranged so people can watch _ _."
+  },
+  {
+    "caption": "A black Honda motorcycle with a dark burgundy seat.",
+    "rank_0": 14,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A black Honda _ _ _ a dark burgundy seat"
+  },
+  {
+    "caption": "A black Honda motorcycle with a dark burgundy seat.",
+    "rank_0": 14,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A black Honda motorcycle with a dark burgundy _"
+  },
+  {
+    "caption": "A photo set of two women at work",
+    "rank_0": 12,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "A photo set of _ _ at work"
+  },
+  {
+    "caption": "A girl that is standing next to a motorcycle.",
+    "rank_0": 12,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "A girl that is standing next to a _ _."
+  },
+  {
+    "caption": "A beautiful new kitchen with natural wood cabinets.",
+    "rank_0": 25,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "_ _ _ _ with natural wood cabinets."
+  },
+  {
+    "caption": "A person riding a motorcycle with a stuffed animal on the back.",
+    "rank_0": 13,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "A person riding a motorcycle with a stuffed animal _ _ _."
+  },
+  {
+    "caption": "A little kitten is stuffed into a woman's purse.",
+    "rank_0": 12,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "_ _ _ is stuffed into a woman's purse."
+  },
+  {
+    "caption": "A little kitten is stuffed into a woman's purse.",
+    "rank_0": 12,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A little kitten _ _ _ _ a woman's purse."
+  },
+  {
+    "caption": "A little kitten is stuffed into a woman's purse.",
+    "rank_0": 12,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "A little kitten is stuffed into a woman's purse _ _"
+  },
+  {
+    "caption": "Four giraffes in a grassy plain with trees in the background.",
+    "rank_0": 24,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "_ _ _ in a grassy plain with trees in the background."
+  },
+  {
+    "caption": "A busy city street with a bus, taxi, and motorcycle.",
+    "rank_0": 15,
+    "better_rank": 0,
+    "k": 10,
+    "mask_used": "_ _ _ _ with a bus, taxi, and motorcycle."
+  },
+  {
+    "caption": "A child with a skateboard sitting on the grass and looking at an empty field",
+    "rank_0": 11,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "A child with _ _ _ _ on the grass and looking at an empty field"
+  },
+  {
+    "caption": "A desk with two monitors depicting security cameras.",
+    "rank_0": 11,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "_ _ _ two monitors depicting security cameras."
+  },
+  {
+    "caption": "A desk with two monitors depicting security cameras.",
+    "rank_0": 11,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A desk with _ _ depicting security cameras."
+  },
+  {
+    "caption": "A woman sitting on a bucket on the side of a street. ",
+    "rank_0": 17,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "_ _ sitting on a bucket on the side of a street."
+  },
+  {
+    "caption": "A beautiful dessert waiting to be shared by two people",
+    "rank_0": 14,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "A beautiful dessert _ _ _ _ _ by two people"
+  },
+  {
+    "caption": "A person walking in the rain while holding an umbrella.",
+    "rank_0": 13,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "_ _ _ in the rain while holding an umbrella."
+  },
+  {
+    "caption": "A person walking in the rain while holding an umbrella.",
+    "rank_0": 13,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A person walking in the rain while _ _ an umbrella."
+  },
+  {
+    "caption": "Two girls and a boy point to an unbaked pizza.",
+    "rank_0": 46,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "Two girls and a boy _ _ _ _ unbaked pizza"
+  },
+  {
+    "caption": "Two girls and a boy point to an unbaked pizza.",
+    "rank_0": 46,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "Two girls and a boy point to an unbaked _ _"
+  },
+  {
+    "caption": "This is an apartment kitchen with white cabinets and appliances.",
+    "rank_0": 20,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "This is an apartment kitchen with white cabinets _ _."
+  },
+  {
+    "caption": "a night view of a street with lights from cars",
+    "rank_0": 34,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "a night view _ _ _ _ with lights from cars"
+  },
+  {
+    "caption": "The bathroom has a wall sink, medicine cabinet, toothbrush holder, and bare walls.",
+    "rank_0": 15,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "The bathroom has a _ _, medicine cabinet, toothbrush holder, and bare walls."
+  },
+  {
+    "caption": "The bathroom has a wall sink, medicine cabinet, toothbrush holder, and bare walls.",
+    "rank_0": 15,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "The bathroom has a wall sink, medicine cabinet, _ _ _, and bare walls."
+  },
+  {
+    "caption": "Two women waiting at a bench next to a street.",
+    "rank_0": 19,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "_ _ waiting at a bench next to a street."
+  },
+  {
+    "caption": "A man is sitting in a busy area with his bike.",
+    "rank_0": 15,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A man is _ _ _ _ _ with his bike"
+  },
+  {
+    "caption": "Two people riding on a moped with a bus in the next lane.",
+    "rank_0": 28,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "_ _ _ _ on a moped with a bus in the next lane."
+  },
+  {
+    "caption": "Two people riding on a moped with a bus in the next lane.",
+    "rank_0": 28,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "Two people _ _ _ _ _ with a bus in the next lane."
+  },
+  {
+    "caption": "A younger man and an older man skiing in the forest.",
+    "rank_0": 13,
+    "better_rank": 0,
+    "k": 10,
+    "mask_used": "_ _ _ and an older man skiing in the forest."
+  },
+  {
+    "caption": "A younger man and an older man skiing in the forest.",
+    "rank_0": 13,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A younger man and an older man _ _ _ _ _"
+  },
+  {
+    "caption": "Commercial liner at a airport parked on a runway.",
+    "rank_0": 13,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "Commercial liner at a airport _ _ _ _"
+  },
+  {
+    "caption": "Commercial liner at a airport parked on a runway.",
+    "rank_0": 13,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "Commercial liner at a airport parked on a _"
+  },
+  {
+    "caption": "A futuristic car and a motorcycle parked next to each other. ",
+    "rank_0": 15,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "_ _ _ _ and a motorcycle parked next to each other."
+  },
+  {
+    "caption": "A man rides a motorcycle down an empty street next to houses.",
+    "rank_0": 17,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "_ _ _ a motorcycle down an empty street next to houses"
+  },
+  {
+    "caption": "A man rides a motorcycle down an empty street next to houses.",
+    "rank_0": 17,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A man rides a motorcycle _ _ _ _ _ _ _ _ _ _"
+  },
+  {
+    "caption": "Some yellow objects are floating in red liquid in a jar.",
+    "rank_0": 29,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "_ _ _ are floating in red liquid in a jar"
+  },
+  {
+    "caption": "A cozy living room scene features easy chairs and a large television.",
+    "rank_0": 25,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "_ _ _ _ scene features easy chairs and a large television."
+  },
+  {
+    "caption": "A cozy living room scene features easy chairs and a large television.",
+    "rank_0": 25,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A cozy living room scene features _ _ and a large television."
+  },
+  {
+    "caption": "A BMW motor cycle parked next to shrub..",
+    "rank_0": 39,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "A BMW motor cycle _ _ _ _ _."
+  },
+  {
+    "caption": "A dog driving an SUV in an open grass covered field.",
+    "rank_0": 20,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "_ _ _ _ an SUV in an open grass covered field"
+  },
+  {
+    "caption": "A car stopped at a traffic light with it's brake lights on.",
+    "rank_0": 17,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "_ _ stopped at a traffic light with it's brake lights on."
+  },
+  {
+    "caption": "Stained glass windows with trim decorate a church.",
+    "rank_0": 19,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "Stained glass windows with _ decorate a church"
+  },
+  {
+    "caption": "Stained glass windows with trim decorate a church.",
+    "rank_0": 19,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "Stained glass windows with trim decorate a _"
+  },
+  {
+    "caption": "A lot of motorbikes line up down a busy street.",
+    "rank_0": 11,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "_ _ _ motorbikes line up down a busy street."
+  },
+  {
+    "caption": "A lot of motorbikes line up down a busy street.",
+    "rank_0": 11,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A lot of motorbikes _ _ _ a busy street."
+  },
+  {
+    "caption": "A clean, European toilet with toilet paper and cleaning brush.",
+    "rank_0": 29,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A clean, European toilet with toilet paper and _ _"
+  },
+  {
+    "caption": "A clean, European toilet with toilet paper and cleaning brush.",
+    "rank_0": 29,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A clean, European _ _ _ _ _ _ _ _ _"
+  },
+  {
+    "caption": "A young attractive woman sitting on a toilette on the side of a street.",
+    "rank_0": 40,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "_ _ _ sitting on a toilette on the side of a street."
+  },
+  {
+    "caption": "A scooter is parked behind a red car.",
+    "rank_0": 17,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "_ _ _ _ behind a red car."
+  },
+  {
+    "caption": "A scooter is parked behind a red car.",
+    "rank_0": 17,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "_ _ is parked behind a red car."
+  },
+  {
+    "caption": "A dog rides in a cart pulled by a man on a bike.",
+    "rank_0": 22,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A dog rides in a cart pulled by a _ _ _ _"
+  },
+  {
+    "caption": "A fancy bathroom with double mirrors and sinks.",
+    "rank_0": 15,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "A fancy bathroom with _ _ and sinks"
+  },
+  {
+    "caption": "People riding on top of elephants that are walking in a line across a road. ",
+    "rank_0": 15,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "People _ _ _ _ of elephants that are walking in a line across a road."
+  },
+  {
+    "caption": "A fancy bathroom with his and her mirrors and sinks next to a toilette.",
+    "rank_0": 29,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "A fancy bathroom with _ _ _ _ and sinks next to a toilette."
+  },
+  {
+    "caption": "An old man standing in a kitchen posing for a picture.",
+    "rank_0": 22,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "An old man _ _ _ _ posing for a picture."
+  },
+  {
+    "caption": "Motorcyclist is taking a turn while onlookers observe ",
+    "rank_0": 13,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "_ _ taking a turn while onlookers observe"
+  },
+  {
+    "caption": "A stoic looking cat sits in a green bowl.",
+    "rank_0": 13,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "_ _ _ _ sits in a green bowl"
+  },
+  {
+    "caption": "A city street with people walking and vehicles on the road.",
+    "rank_0": 12,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A city street with people walking and _ _ _ _."
+  },
+  {
+    "caption": "A city street with people walking and vehicles on the road.",
+    "rank_0": 12,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "A city street with people walking and vehicles _ _ _."
+  },
+  {
+    "caption": "Children's toy animals are strewn across a floor.",
+    "rank_0": 29,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "Children's toy animals _ _ _ _ _ _ _."
+  },
+  {
+    "caption": "People sitting under an umbrella looking at the scenery.",
+    "rank_0": 25,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "_ _ under an umbrella looking at the scenery."
+  },
+  {
+    "caption": "A white bathroom has a white shower curtain.",
+    "rank_0": 11,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A white _ _ a white shower curtain."
+  },
+  {
+    "caption": "A white bathroom has a white shower curtain.",
+    "rank_0": 11,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A white bathroom has a white shower _."
+  },
+  {
+    "caption": "There are two yellow flowers inside a vase.",
+    "rank_0": 16,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "There are two _ _ inside a vase."
+  },
+  {
+    "caption": "A black and white photograph of a motorcycle.",
+    "rank_0": 12,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "_ _ _ _ photograph of a motorcycle"
+  },
+  {
+    "caption": "A bathroom being renovated featuring a toilette and shower.",
+    "rank_0": 22,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "A bathroom being renovated _ _ _ _ _."
+  },
+  {
+    "caption": "A motorcycle moves forward down an empty street.",
+    "rank_0": 21,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A motorcycle _ _ _ _ an empty street"
+  },
+  {
+    "caption": "A sign on a building advertising an Italian restaurant.",
+    "rank_0": 13,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "_ _ _ _ advertising an Italian restaurant."
+  },
+  {
+    "caption": "A cat is curled up in a bowl",
+    "rank_0": 12,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "_ _ curled up in a bowl"
+  },
+  {
+    "caption": "A cat is curled up in a bowl",
+    "rank_0": 12,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A cat _ _ _ in a bowl"
+  },
+  {
+    "caption": "A sign for an Italian restaurant hangs outside a building.",
+    "rank_0": 26,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "_ _ _ _ an Italian restaurant hangs outside a building"
+  },
+  {
+    "caption": "A sign for an Italian restaurant hangs outside a building.",
+    "rank_0": 26,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A sign for an Italian restaurant hangs outside _ _"
+  },
+  {
+    "caption": "A person with a colorful umbrella sits on a fountain.",
+    "rank_0": 17,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "_ _ _ with a colorful umbrella sits on a fountain"
+  },
+  {
+    "caption": "Trees ring a cathedral with clock tower and elaborate turrets.",
+    "rank_0": 41,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "Trees ring a cathedral with _ _ and elaborate turrets."
+  },
+  {
+    "caption": "A person sitting on a stool on the street.",
+    "rank_0": 25,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "_ _ _ on a stool on the street"
+  },
+  {
+    "caption": "A group of people riding mopeds through a park.",
+    "rank_0": 12,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "_ _ _ riding mopeds through a park."
+  },
+  {
+    "caption": "A group of people riding mopeds through a park.",
+    "rank_0": 12,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A group of people _ _ _ through a park."
+  },
+  {
+    "caption": "A ski resort that has a couple people outside. ",
+    "rank_0": 12,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A ski resort _ _ _ _ _ outside."
+  },
+  {
+    "caption": "four urinals in a public restroom with a window",
+    "rank_0": 40,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "_ _ _ in a public restroom with a window"
+  },
+  {
+    "caption": "A sign outside of a restaurant for Italian food. ",
+    "rank_0": 19,
+    "better_rank": 0,
+    "k": 10,
+    "mask_used": "_ _ outside of a restaurant for Italian food."
+  },
+  {
+    "caption": "A desktop with two computers and fruit on it.",
+    "rank_0": 16,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "_ _ _ two computers and fruit on it."
+  },
+  {
+    "caption": "A desktop with two computers and fruit on it.",
+    "rank_0": 16,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "A desktop with _ _ and fruit on it."
+  },
+  {
+    "caption": "A parked motorcycle with a red enclosed side car.",
+    "rank_0": 13,
+    "better_rank": 0,
+    "k": 10,
+    "mask_used": "_ _ _ with a red enclosed side car."
+  },
+  {
+    "caption": "A parked motorcycle with a red enclosed side car.",
+    "rank_0": 13,
+    "better_rank": 0,
+    "k": 10,
+    "mask_used": "_ parked motorcycle with a red enclosed side car."
+  },
+  {
+    "caption": "A skateboarder wearing a plaid shirt and jeans.",
+    "rank_0": 29,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "_ _ wearing a plaid shirt and jeans."
+  },
+  {
+    "caption": "A skateboarder wearing a plaid shirt and jeans.",
+    "rank_0": 29,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "A skateboarder _ _ _ _ _ _ _ _."
+  },
+  {
+    "caption": "A skateboarder wearing a plaid shirt and jeans.",
+    "rank_0": 29,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A skateboarder wearing a plaid shirt and _ _."
+  },
+  {
+    "caption": "A young boy riding a motorcycle next to a silver car.",
+    "rank_0": 14,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A young boy riding a motorcycle _ _ _ _ _."
+  },
+  {
+    "caption": "Several people riding on the back of elephants",
+    "rank_0": 46,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "Several people _ _ _ _ _ elephants"
+  },
+  {
+    "caption": "Grey house cat devours a song bird on a door step",
+    "rank_0": 11,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "_ _ _ devours a song bird on a door step"
+  },
+  {
+    "caption": "Grey house cat devours a song bird on a door step",
+    "rank_0": 11,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "Grey house cat devours a song bird on a _ _"
+  },
+  {
+    "caption": "A person walking in the rain on the sidewalk. ",
+    "rank_0": 20,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "_ _ _ in the rain on the sidewalk"
+  },
+  {
+    "caption": "A person walking in the rain on the sidewalk. ",
+    "rank_0": 20,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A person walking in the rain on _ _"
+  },
+  {
+    "caption": "A couple on a motorcycle in front of a bus and a metermaid car",
+    "rank_0": 22,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "_ _ on a motorcycle in front of a bus and a metermaid car"
+  },
+  {
+    "caption": "The sign of a restaurant in the outside of the store.",
+    "rank_0": 15,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "_ _ _ a restaurant in the outside of the store."
+  },
+  {
+    "caption": "The sign of a restaurant in the outside of the store.",
+    "rank_0": 15,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "The sign of a restaurant in the _ _ _ _."
+  },
+  {
+    "caption": "A fighter jet flying through the sky with smoke coming off of it.",
+    "rank_0": 35,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A fighter jet flying through the sky with _ _ _ _ _ _ _."
+  },
+  {
+    "caption": "A woman is taking a picture of herself in a bathroom mirror.",
+    "rank_0": 24,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A woman is _ _ _ _ of herself in a bathroom mirror."
+  },
+  {
+    "caption": "A girl observes a life size toy kitchen.",
+    "rank_0": 18,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "A girl observes a life size toy _ _"
+  },
+  {
+    "caption": "Two bicycle riders riding in the city at night.",
+    "rank_0": 26,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "_ _ _ riding in the city at night."
+  },
+  {
+    "caption": "Two bicycle riders riding in the city at night.",
+    "rank_0": 26,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "Two bicycle riders riding in the city _ _."
+  },
+  {
+    "caption": "A small child climbs atop a large motorcycle",
+    "rank_0": 25,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "A small child _ _ a large motorcycle"
+  },
+  {
+    "caption": "A model standing next to a scooter in the middle of a room of people",
+    "rank_0": 22,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A model standing next to a scooter in the middle of a _ _ _"
+  },
+  {
+    "caption": "A living room filled with books furniture and a flat screen TV.",
+    "rank_0": 18,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A living room filled with _ _ _ _ _ a flat screen TV."
+  },
+  {
+    "caption": "An overview picture of a street at night.",
+    "rank_0": 29,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "_ _ _ of a street at night."
+  },
+  {
+    "caption": "An overview picture of a street at night.",
+    "rank_0": 29,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "An overview picture of a _ at night."
+  },
+  {
+    "caption": "Some toy animals on the ground near a picture",
+    "rank_0": 22,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "Some toy animals _ _ _ near a picture"
+  },
+  {
+    "caption": "Creamy cheesecake dessert with whip cream and caramel.",
+    "rank_0": 12,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "_ _ _ dessert with whip cream and caramel."
+  },
+  {
+    "caption": "Creamy cheesecake dessert with whip cream and caramel.",
+    "rank_0": 12,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "Creamy cheesecake dessert with _ _ and caramel."
+  },
+  {
+    "caption": "Creamy cheesecake dessert with whip cream and caramel.",
+    "rank_0": 12,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "_ cheesecake dessert with whip cream and caramel."
+  },
+  {
+    "caption": "Sunrise on an airport tarmac with a plane at the boarding ramp.",
+    "rank_0": 11,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "Sunrise on an airport tarmac with a _ _ _ _ _ _ _ _."
+  },
+  {
+    "caption": "A person holding a skateboard overlooks a dead field of crops.",
+    "rank_0": 20,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "A person holding a _ _ overlooks a dead field of crops"
+  },
+  {
+    "caption": "A skateboarder is riding his skateboard at night.",
+    "rank_0": 33,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "_ _ is riding his skateboard at night."
+  },
+  {
+    "caption": "A skateboarder is riding his skateboard at night.",
+    "rank_0": 33,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A skateboarder is riding his skateboard _ _."
+  },
+  {
+    "caption": "A car is parked on dry grass with kites overhead.",
+    "rank_0": 49,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A car is parked on dry grass with _ _"
+  },
+  {
+    "caption": "A kitchen is shown with wooden cabinets and a wooden celling.",
+    "rank_0": 30,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "_ _ _ _ with wooden cabinets and a wooden celling"
+  },
+  {
+    "caption": "A kitchen is shown with wooden cabinets and a wooden celling.",
+    "rank_0": 30,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A kitchen _ _ _ wooden cabinets and a wooden celling"
+  },
+  {
+    "caption": "The young man is stirring his pot of food with a wooden spoon.",
+    "rank_0": 12,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "_ _ _ is stirring his pot of food with a wooden spoon."
+  },
+  {
+    "caption": "The young man is stirring his pot of food with a wooden spoon.",
+    "rank_0": 12,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "The young man is _ _ _ _ _ with a wooden spoon."
+  },
+  {
+    "caption": "A car stopped at the front of the stop light. ",
+    "rank_0": 13,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "A car stopped at the front of the _ _ _."
+  },
+  {
+    "caption": "The city streets are dark and deserted at night.",
+    "rank_0": 36,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "_ _ _ are dark and deserted at night"
+  },
+  {
+    "caption": "The city streets are dark and deserted at night.",
+    "rank_0": 36,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "_ _ _ _ dark and deserted at night"
+  },
+  {
+    "caption": "Some dogs stick their heads out the car window.",
+    "rank_0": 27,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "_ _ stick their heads out the car window."
+  },
+  {
+    "caption": "A truck nears a stop light in rainy weather.",
+    "rank_0": 26,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A truck nears a stop light in _ _."
+  },
+  {
+    "caption": "A car is at a red light in the rain.",
+    "rank_0": 40,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "A car is at a red light _ _ _."
+  },
+  {
+    "caption": "A woman is at her oven in a lime green kitchen.",
+    "rank_0": 36,
+    "better_rank": 5,
+    "k": 20,
+    "mask_used": "_ _ _ at her oven in a lime green kitchen"
+  },
+  {
+    "caption": "A woman is at her oven in a lime green kitchen.",
+    "rank_0": 36,
+    "better_rank": 2,
+    "k": 20,
+    "mask_used": "A woman is _ _ _ _ in a lime green kitchen"
+  },
+  {
+    "caption": "Three airplanes on display behind a high fence.",
+    "rank_0": 33,
+    "better_rank": 12,
+    "k": 20,
+    "mask_used": "_ _ _ on display behind a high fence."
+  },
+  {
+    "caption": "Two young men walking down a runway toward an airplane.",
+    "rank_0": 32,
+    "better_rank": 18,
+    "k": 20,
+    "mask_used": "Two young men _ _ _ _ toward an airplane."
+  },
+  {
+    "caption": "A car is stopped at a red light",
+    "rank_0": 41,
+    "better_rank": 11,
+    "k": 20,
+    "mask_used": "_ _ stopped at a red light"
+  },
+  {
+    "caption": "A car is stopped at a red light",
+    "rank_0": 41,
+    "better_rank": 14,
+    "k": 20,
+    "mask_used": "_ _ is stopped at a red light"
+  },
+  {
+    "caption": "Entertainment room with rack of dvds, tv and seating area.",
+    "rank_0": 40,
+    "better_rank": 11,
+    "k": 20,
+    "mask_used": "_ _ _ with rack of dvds, tv and seating area."
+  },
+  {
+    "caption": "Individuals holding pastries or donuts of some kind",
+    "rank_0": 46,
+    "better_rank": 11,
+    "k": 20,
+    "mask_used": "Individuals holding _ _ _ _ of some kind"
+  },
+  {
+    "caption": "A living room is arranged so people can watch the television.",
+    "rank_0": 25,
+    "better_rank": 9,
+    "k": 20,
+    "mask_used": "_ _ _ _ is arranged so people can watch the television."
+  },
+  {
+    "caption": "A living room is arranged so people can watch the television.",
+    "rank_0": 25,
+    "better_rank": 5,
+    "k": 20,
+    "mask_used": "A living room is arranged so people can watch _ _."
+  },
+  {
+    "caption": "Two men walking the tarmac of an airport.",
+    "rank_0": 26,
+    "better_rank": 12,
+    "k": 20,
+    "mask_used": "Two men walking the tarmac _ _ _."
+  },
+  {
+    "caption": "A giraffe looks down at a zebra on the field",
+    "rank_0": 30,
+    "better_rank": 20,
+    "k": 20,
+    "mask_used": "A giraffe looks down at a zebra _ _ _"
+  },
+  {
+    "caption": "A giraffe and a zebra checking each other out.",
+    "rank_0": 27,
+    "better_rank": 14,
+    "k": 20,
+    "mask_used": "A giraffe and _ _ checking each other out."
+  },
+  {
+    "caption": "A beautiful new kitchen with natural wood cabinets.",
+    "rank_0": 25,
+    "better_rank": 4,
+    "k": 20,
+    "mask_used": "_ _ _ _ with natural wood cabinets."
+  },
+  {
+    "caption": "A beautiful new kitchen with natural wood cabinets.",
+    "rank_0": 25,
+    "better_rank": 14,
+    "k": 20,
+    "mask_used": "A beautiful new kitchen with natural wood _ _."
+  },
+  {
+    "caption": "An office kitchen with open windows and no food.",
+    "rank_0": 35,
+    "better_rank": 11,
+    "k": 20,
+    "mask_used": "An office kitchen with open windows and _ _."
+  },
+  {
+    "caption": "Four giraffes in a grassy plain with trees in the background.",
+    "rank_0": 24,
+    "better_rank": 7,
+    "k": 20,
+    "mask_used": "_ _ _ in a grassy plain with trees in the background."
+  },
+  {
+    "caption": "Four giraffes in a grassy plain with trees in the background.",
+    "rank_0": 24,
+    "better_rank": 11,
+    "k": 20,
+    "mask_used": "Four giraffes in a _ _ _ with trees in the background."
+  },
+  {
+    "caption": "The woman in the kitchen is holding a huge pan.",
+    "rank_0": 29,
+    "better_rank": 17,
+    "k": 20,
+    "mask_used": "The woman in the kitchen _ _ _ _ _ _"
+  },
+  {
+    "caption": "Virgin sponsored airplane parked with a plane leaving in the background.",
+    "rank_0": 47,
+    "better_rank": 11,
+    "k": 20,
+    "mask_used": "Virgin sponsored airplane _ _ _ _ _ _ _ _ _ _ _ _ _"
+  },
+  {
+    "caption": "A skate boarder at night prepairing to skate away.",
+    "rank_0": 28,
+    "better_rank": 13,
+    "k": 20,
+    "mask_used": "_ _ _ at night prepairing to skate away"
+  },
+  {
+    "caption": "A skate boarder at night prepairing to skate away.",
+    "rank_0": 28,
+    "better_rank": 19,
+    "k": 20,
+    "mask_used": "A skate boarder _ _ prepairing to skate away"
+  },
+  {
+    "caption": "Two girls and a boy point to an unbaked pizza.",
+    "rank_0": 46,
+    "better_rank": 15,
+    "k": 20,
+    "mask_used": "Two girls and a boy point to an _ _ _"
+  },
+  {
+    "caption": "Two girls and a boy point to an unbaked pizza.",
+    "rank_0": 46,
+    "better_rank": 8,
+    "k": 20,
+    "mask_used": "Two girls and a boy _ _ _ _ unbaked pizza"
+  },
+  {
+    "caption": "Two girls and a boy point to an unbaked pizza.",
+    "rank_0": 46,
+    "better_rank": 8,
+    "k": 20,
+    "mask_used": "Two girls and a boy point to an unbaked _ _"
+  },
+  {
+    "caption": "a night view of a street with lights from cars",
+    "rank_0": 34,
+    "better_rank": 11,
+    "k": 20,
+    "mask_used": "_ _ _ of a street with lights from cars"
+  },
+  {
+    "caption": "a night view of a street with lights from cars",
+    "rank_0": 34,
+    "better_rank": 6,
+    "k": 20,
+    "mask_used": "a night view _ _ _ _ with lights from cars"
+  },
+  {
+    "caption": "A girl on a motorcycle holding a DSW bag and kissing a guy who is driving the bike.",
+    "rank_0": 33,
+    "better_rank": 11,
+    "k": 20,
+    "mask_used": "A girl on a motorcycle _ _ _ _ _ _ and kissing a guy who is driving the bike."
+  },
+  {
+    "caption": "Two people riding on a moped with a bus in the next lane.",
+    "rank_0": 28,
+    "better_rank": 8,
+    "k": 20,
+    "mask_used": "_ _ _ _ on a moped with a bus in the next lane."
+  },
+  {
+    "caption": "Two people riding on a moped with a bus in the next lane.",
+    "rank_0": 28,
+    "better_rank": 14,
+    "k": 20,
+    "mask_used": "Two people riding on a moped with a bus _ _ _ _."
+  },
+  {
+    "caption": "Two people riding on a moped with a bus in the next lane.",
+    "rank_0": 28,
+    "better_rank": 6,
+    "k": 20,
+    "mask_used": "Two people _ _ _ _ _ with a bus in the next lane."
+  },
+  {
+    "caption": "A person cross country skiing in the street of a town in winter.",
+    "rank_0": 27,
+    "better_rank": 15,
+    "k": 20,
+    "mask_used": "A person _ _ _ in the street of a town in winter."
+  },
+  {
+    "caption": "Some yellow objects are floating in red liquid in a jar.",
+    "rank_0": 29,
+    "better_rank": 10,
+    "k": 20,
+    "mask_used": "_ _ _ are floating in red liquid in a jar"
+  },
+  {
+    "caption": "Some yellow objects are floating in red liquid in a jar.",
+    "rank_0": 29,
+    "better_rank": 16,
+    "k": 20,
+    "mask_used": "Some yellow objects are floating in _ _ in a jar"
+  },
+  {
+    "caption": "A cozy living room scene features easy chairs and a large television.",
+    "rank_0": 25,
+    "better_rank": 4,
+    "k": 20,
+    "mask_used": "_ _ _ _ scene features easy chairs and a large television."
+  },
+  {
+    "caption": "A cozy living room scene features easy chairs and a large television.",
+    "rank_0": 25,
+    "better_rank": 10,
+    "k": 20,
+    "mask_used": "A cozy living room scene features _ _ and a large television."
+  },
+  {
+    "caption": "A large herd of sheep grazing in a pasture,",
+    "rank_0": 27,
+    "better_rank": 17,
+    "k": 20,
+    "mask_used": "_ _ _ _ of sheep grazing in a pasture"
+  },
+  {
+    "caption": "A large herd of sheep grazing in a pasture,",
+    "rank_0": 27,
+    "better_rank": 19,
+    "k": 20,
+    "mask_used": "A large herd of sheep grazing _ _ _"
+  },
+  {
+    "caption": "A BMW motor cycle parked next to shrub..",
+    "rank_0": 39,
+    "better_rank": 2,
+    "k": 20,
+    "mask_used": "A BMW motor cycle _ _ _ _ _."
+  },
+  {
+    "caption": "A room contains baskets and has a fireplace. ",
+    "rank_0": 34,
+    "better_rank": 14,
+    "k": 20,
+    "mask_used": "A room contains baskets _ _ _ _."
+  },
+  {
+    "caption": "A room contains baskets and has a fireplace. ",
+    "rank_0": 34,
+    "better_rank": 11,
+    "k": 20,
+    "mask_used": "A room contains baskets and has _ _."
+  },
+  {
+    "caption": "A clean, European toilet with toilet paper and cleaning brush.",
+    "rank_0": 29,
+    "better_rank": 8,
+    "k": 20,
+    "mask_used": "A clean, European toilet with toilet paper and _ _"
+  },
+  {
+    "caption": "A clean, European toilet with toilet paper and cleaning brush.",
+    "rank_0": 29,
+    "better_rank": 10,
+    "k": 20,
+    "mask_used": "A clean, European _ _ _ _ _ _ _ _ _"
+  },
+  {
+    "caption": "A young attractive woman sitting on a toilette on the side of a street.",
+    "rank_0": 40,
+    "better_rank": 8,
+    "k": 20,
+    "mask_used": "_ _ _ sitting on a toilette on the side of a street."
+  },
+  {
+    "caption": "A young attractive woman sitting on a toilette on the side of a street.",
+    "rank_0": 40,
+    "better_rank": 20,
+    "k": 20,
+    "mask_used": "A young attractive woman _ _ _ _ on the side of a street."
+  },
+  {
+    "caption": "A dog rides in a cart pulled by a man on a bike.",
+    "rank_0": 22,
+    "better_rank": 10,
+    "k": 20,
+    "mask_used": "A dog rides in a cart pulled by a _ _ _ _"
+  },
+  {
+    "caption": "A dog rides in a cart pulled by a man on a bike.",
+    "rank_0": 22,
+    "better_rank": 20,
+    "k": 20,
+    "mask_used": "A dog rides in a cart pulled by a man on a _"
+  },
+  {
+    "caption": "A few items sit on top of a toilet in a bathroom stall.",
+    "rank_0": 28,
+    "better_rank": 18,
+    "k": 20,
+    "mask_used": "A few items sit on top of a toilet in a _ _."
+  },
+  {
+    "caption": "A few items sit on top of a toilet in a bathroom stall.",
+    "rank_0": 28,
+    "better_rank": 18,
+    "k": 20,
+    "mask_used": "A few items _ _ _ _ a toilet in a bathroom stall."
+  },
+  {
+    "caption": "A fancy bathroom with his and her mirrors and sinks next to a toilette.",
+    "rank_0": 29,
+    "better_rank": 6,
+    "k": 20,
+    "mask_used": "A fancy bathroom with _ _ _ _ and sinks next to a toilette."
+  },
+  {
+    "caption": "An old man standing in a kitchen posing for a picture.",
+    "rank_0": 22,
+    "better_rank": 1,
+    "k": 20,
+    "mask_used": "An old man _ _ _ _ posing for a picture."
+  },
+  {
+    "caption": "A group of motorcycle riders driving past buildings.",
+    "rank_0": 24,
+    "better_rank": 13,
+    "k": 20,
+    "mask_used": "_ _ _ motorcycle riders driving past buildings."
+  },
+  {
+    "caption": "Children's toy animals are strewn across a floor.",
+    "rank_0": 29,
+    "better_rank": 5,
+    "k": 20,
+    "mask_used": "Children's toy animals _ _ _ _ _ _ _."
+  },
+  {
+    "caption": "Children's toy animals are strewn across a floor.",
+    "rank_0": 29,
+    "better_rank": 17,
+    "k": 20,
+    "mask_used": "Children's toy animals are strewn _ _ _ _."
+  },
+  {
+    "caption": "People sitting under an umbrella looking at the scenery.",
+    "rank_0": 25,
+    "better_rank": 10,
+    "k": 20,
+    "mask_used": "_ _ under an umbrella looking at the scenery."
+  },
+  {
+    "caption": "A bathroom being renovated featuring a toilette and shower.",
+    "rank_0": 22,
+    "better_rank": 9,
+    "k": 20,
+    "mask_used": "A bathroom being renovated _ _ _ _ _."
+  },
+  {
+    "caption": "A motorcycle moves forward down an empty street.",
+    "rank_0": 21,
+    "better_rank": 20,
+    "k": 20,
+    "mask_used": "_ _ _ _ down an empty street"
+  },
+  {
+    "caption": "A motorcycle moves forward down an empty street.",
+    "rank_0": 21,
+    "better_rank": 11,
+    "k": 20,
+    "mask_used": "A motorcycle moves forward down _ _ _"
+  },
+  {
+    "caption": "A motorcycle moves forward down an empty street.",
+    "rank_0": 21,
+    "better_rank": 8,
+    "k": 20,
+    "mask_used": "A motorcycle _ _ _ _ an empty street"
+  },
+  {
+    "caption": "A motorcycle moves forward down an empty street.",
+    "rank_0": 21,
+    "better_rank": 18,
+    "k": 20,
+    "mask_used": "A motorcycle moves forward _ _ _ _ street"
+  },
+  {
+    "caption": "The bathroom has black and white checkered flooring.",
+    "rank_0": 24,
+    "better_rank": 16,
+    "k": 20,
+    "mask_used": "The bathroom has black and white checkered _ _."
+  },
+  {
+    "caption": "A group of scooters rides down a street",
+    "rank_0": 46,
+    "better_rank": 17,
+    "k": 20,
+    "mask_used": "A group of _ _ down a street"
+  },
+  {
+    "caption": "A sign for an Italian restaurant hangs outside a building.",
+    "rank_0": 26,
+    "better_rank": 2,
+    "k": 20,
+    "mask_used": "_ _ _ _ an Italian restaurant hangs outside a building"
+  },
+  {
+    "caption": "A sign for an Italian restaurant hangs outside a building.",
+    "rank_0": 26,
+    "better_rank": 8,
+    "k": 20,
+    "mask_used": "A sign for an Italian restaurant hangs outside _ _"
+  },
+  {
+    "caption": "A room with a fir place and several baskets and a bench in the background.",
+    "rank_0": 31,
+    "better_rank": 14,
+    "k": 20,
+    "mask_used": "_ _ _ a fir place and several baskets and a bench in the background."
+  },
+  {
+    "caption": "A room with a fir place and several baskets and a bench in the background.",
+    "rank_0": 31,
+    "better_rank": 15,
+    "k": 20,
+    "mask_used": "A room with a fir place and several baskets and a bench _ _ _."
+  },
+  {
+    "caption": "Trees ring a cathedral with clock tower and elaborate turrets.",
+    "rank_0": 41,
+    "better_rank": 3,
+    "k": 20,
+    "mask_used": "Trees ring a cathedral with _ _ and elaborate turrets."
+  },
+  {
+    "caption": "A person sitting on a stool on the street.",
+    "rank_0": 25,
+    "better_rank": 1,
+    "k": 20,
+    "mask_used": "_ _ _ on a stool on the street"
+  },
+  {
+    "caption": "A person sitting on a stool on the street.",
+    "rank_0": 25,
+    "better_rank": 11,
+    "k": 20,
+    "mask_used": "A person sitting on a stool _ _ _"
+  },
+  {
+    "caption": "four urinals in a public restroom with a window",
+    "rank_0": 40,
+    "better_rank": 3,
+    "k": 20,
+    "mask_used": "_ _ _ in a public restroom with a window"
+  },
+  {
+    "caption": "four urinals in a public restroom with a window",
+    "rank_0": 40,
+    "better_rank": 16,
+    "k": 20,
+    "mask_used": "four urinals in a _ _ with a window"
+  },
+  {
+    "caption": "A man getting a drink from a water fountain that is a toilet.",
+    "rank_0": 28,
+    "better_rank": 15,
+    "k": 20,
+    "mask_used": "A man getting a drink from a _ _ _ that is a toilet"
+  },
+  {
+    "caption": "A skateboarder wearing a plaid shirt and jeans.",
+    "rank_0": 29,
+    "better_rank": 5,
+    "k": 20,
+    "mask_used": "_ _ wearing a plaid shirt and jeans."
+  },
+  {
+    "caption": "A skateboarder wearing a plaid shirt and jeans.",
+    "rank_0": 29,
+    "better_rank": 9,
+    "k": 20,
+    "mask_used": "A skateboarder _ _ _ _ _ _ _ _."
+  },
+  {
+    "caption": "A skateboarder wearing a plaid shirt and jeans.",
+    "rank_0": 29,
+    "better_rank": 10,
+    "k": 20,
+    "mask_used": "A skateboarder wearing a plaid shirt and _ _."
+  },
+  {
+    "caption": "Several people riding on the back of elephants",
+    "rank_0": 46,
+    "better_rank": 8,
+    "k": 20,
+    "mask_used": "Several people _ _ _ _ _ elephants"
+  },
+  {
+    "caption": "A married couple preparing food in a house kitchen.",
+    "rank_0": 27,
+    "better_rank": 12,
+    "k": 20,
+    "mask_used": "A married couple preparing food _ _ _ _."
+  },
+  {
+    "caption": "A woman cooking in her kitchen with a black pan.",
+    "rank_0": 43,
+    "better_rank": 18,
+    "k": 20,
+    "mask_used": "A woman _ _ _ _ with a black pan"
+  },
+  {
+    "caption": "A couple on a motorcycle in front of a bus and a metermaid car",
+    "rank_0": 22,
+    "better_rank": 3,
+    "k": 20,
+    "mask_used": "_ _ on a motorcycle in front of a bus and a metermaid car"
+  },
+  {
+    "caption": "A couple on a motorcycle in front of a bus and a metermaid car",
+    "rank_0": 22,
+    "better_rank": 19,
+    "k": 20,
+    "mask_used": "A couple on a motorcycle in front of a bus and a _ _ _"
+  },
+  {
+    "caption": "A fighter jet flying through the sky with smoke coming off of it.",
+    "rank_0": 35,
+    "better_rank": 20,
+    "k": 20,
+    "mask_used": "A fighter jet _ _ _ _ with smoke coming off of it."
+  },
+  {
+    "caption": "A fighter jet flying through the sky with smoke coming off of it.",
+    "rank_0": 35,
+    "better_rank": 8,
+    "k": 20,
+    "mask_used": "A fighter jet flying through the sky with _ _ _ _ _ _ _."
+  },
+  {
+    "caption": "A woman is taking a picture of herself in a bathroom mirror.",
+    "rank_0": 24,
+    "better_rank": 5,
+    "k": 20,
+    "mask_used": "A woman is _ _ _ _ of herself in a bathroom mirror."
+  },
+  {
+    "caption": "A little boy sitting alone on a motorcycle.",
+    "rank_0": 24,
+    "better_rank": 12,
+    "k": 20,
+    "mask_used": "A little boy _ _ _ on a motorcycle"
+  },
+  {
+    "caption": "A giraffe and a zebra walking through an African plain.",
+    "rank_0": 26,
+    "better_rank": 18,
+    "k": 20,
+    "mask_used": "A giraffe and _ _ walking through an African plain."
+  },
+  {
+    "caption": "A giraffe and a zebra walking through an African plain.",
+    "rank_0": 26,
+    "better_rank": 13,
+    "k": 20,
+    "mask_used": "A giraffe and a zebra _ _ _ an African plain."
+  },
+  {
+    "caption": "Two bicycle riders riding in the city at night.",
+    "rank_0": 26,
+    "better_rank": 7,
+    "k": 20,
+    "mask_used": "_ _ _ riding in the city at night."
+  },
+  {
+    "caption": "Two bicycle riders riding in the city at night.",
+    "rank_0": 26,
+    "better_rank": 9,
+    "k": 20,
+    "mask_used": "Two bicycle riders riding in the city _ _."
+  },
+  {
+    "caption": "Two bicycle riders riding in the city at night.",
+    "rank_0": 26,
+    "better_rank": 20,
+    "k": 20,
+    "mask_used": "Two bicycle riders riding _ _ _ _ _."
+  },
+  {
+    "caption": "A small child climbs atop a large motorcycle",
+    "rank_0": 25,
+    "better_rank": 9,
+    "k": 20,
+    "mask_used": "A small child _ _ a large motorcycle"
+  },
+  {
+    "caption": "A model standing next to a scooter in the middle of a room of people",
+    "rank_0": 22,
+    "better_rank": 7,
+    "k": 20,
+    "mask_used": "A model standing next to a scooter in the middle of a _ _ _"
+  },
+  {
+    "caption": "An overview picture of a street at night.",
+    "rank_0": 29,
+    "better_rank": 9,
+    "k": 20,
+    "mask_used": "_ _ _ of a street at night."
+  },
+  {
+    "caption": "An overview picture of a street at night.",
+    "rank_0": 29,
+    "better_rank": 7,
+    "k": 20,
+    "mask_used": "An overview picture of a _ at night."
+  },
+  {
+    "caption": "An overview picture of a street at night.",
+    "rank_0": 29,
+    "better_rank": 14,
+    "k": 20,
+    "mask_used": "An overview picture of a street _ _."
+  },
+  {
+    "caption": "An overview picture of a street at night.",
+    "rank_0": 29,
+    "better_rank": 19,
+    "k": 20,
+    "mask_used": "_ _ _ picture of a street at night."
+  },
+  {
+    "caption": "Some toy animals on the ground near a picture",
+    "rank_0": 22,
+    "better_rank": 1,
+    "k": 20,
+    "mask_used": "Some toy animals _ _ _ near a picture"
+  },
+  {
+    "caption": "Some toy animals on the ground near a picture",
+    "rank_0": 22,
+    "better_rank": 16,
+    "k": 20,
+    "mask_used": "Some toy animals on the ground _ _ _"
+  },
+  {
+    "caption": "Some toy animals on the ground near a picture",
+    "rank_0": 22,
+    "better_rank": 15,
+    "k": 20,
+    "mask_used": "Some toy animals on the ground near _ _"
+  },
+  {
+    "caption": "A long empty, minimal modern skylit home kitchen.",
+    "rank_0": 22,
+    "better_rank": 13,
+    "k": 20,
+    "mask_used": "_ _ _, minimal modern skylit home kitchen."
+  },
+  {
+    "caption": "An old military jet fighter climbing in altitude.",
+    "rank_0": 25,
+    "better_rank": 15,
+    "k": 20,
+    "mask_used": "An old military jet fighter _ _ _."
+  },
+  {
+    "caption": "An old military jet fighter climbing in altitude.",
+    "rank_0": 25,
+    "better_rank": 13,
+    "k": 20,
+    "mask_used": "An old military jet fighter climbing _ _."
+  },
+  {
+    "caption": "The view of a large bathroom with a walk in closet.",
+    "rank_0": 29,
+    "better_rank": 16,
+    "k": 20,
+    "mask_used": "The view of a _ _ _ _ a walk in closet."
+  },
+  {
+    "caption": "a cat sitting in a bathroom sink looking at the floor.",
+    "rank_0": 31,
+    "better_rank": 11,
+    "k": 20,
+    "mask_used": "_ _ sitting in a bathroom sink looking at the floor."
+  },
+  {
+    "caption": "An empty, clean toilet stall with a stack of toilet paper.",
+    "rank_0": 41,
+    "better_rank": 19,
+    "k": 20,
+    "mask_used": "An empty, clean toilet stall with a stack of _ _"
+  },
+  {
+    "caption": "An airplane is doing tricks and emitting smoke.",
+    "rank_0": 28,
+    "better_rank": 14,
+    "k": 20,
+    "mask_used": "_ _ _ _ tricks and emitting smoke."
+  },
+  {
+    "caption": "A skateboarder is riding his skateboard at night.",
+    "rank_0": 33,
+    "better_rank": 4,
+    "k": 20,
+    "mask_used": "_ _ is riding his skateboard at night."
+  },
+  {
+    "caption": "A skateboarder is riding his skateboard at night.",
+    "rank_0": 33,
+    "better_rank": 8,
+    "k": 20,
+    "mask_used": "A skateboarder is riding his skateboard _ _."
+  },
+  {
+    "caption": "A skateboarder is riding his skateboard at night.",
+    "rank_0": 33,
+    "better_rank": 11,
+    "k": 20,
+    "mask_used": "A skateboarder _ _ _ _ at night."
+  },
+  {
+    "caption": "A car is parked on dry grass with kites overhead.",
+    "rank_0": 49,
+    "better_rank": 5,
+    "k": 20,
+    "mask_used": "A car is parked on dry grass with _ _"
+  },
+  {
+    "caption": "A car is parked on dry grass with kites overhead.",
+    "rank_0": 49,
+    "better_rank": 13,
+    "k": 20,
+    "mask_used": "A car is parked on dry grass with kites _ _"
+  },
+  {
+    "caption": "A kitchen is shown with wooden cabinets and a wooden celling.",
+    "rank_0": 30,
+    "better_rank": 3,
+    "k": 20,
+    "mask_used": "_ _ _ _ with wooden cabinets and a wooden celling"
+  },
+  {
+    "caption": "A kitchen is shown with wooden cabinets and a wooden celling.",
+    "rank_0": 30,
+    "better_rank": 5,
+    "k": 20,
+    "mask_used": "A kitchen _ _ _ wooden cabinets and a wooden celling"
+  },
+  {
+    "caption": "The two planes are different in design, but flying in a similar flight pattern.",
+    "rank_0": 39,
+    "better_rank": 15,
+    "k": 20,
+    "mask_used": "The two planes are different in design, but flying in a similar _ _."
+  },
+  {
+    "caption": "The two planes are different in design, but flying in a similar flight pattern.",
+    "rank_0": 39,
+    "better_rank": 16,
+    "k": 20,
+    "mask_used": "The two planes are different in design, but _ _ _ _ _ _ _."
+  },
+  {
+    "caption": "The city streets are dark and deserted at night.",
+    "rank_0": 36,
+    "better_rank": 7,
+    "k": 20,
+    "mask_used": "_ _ _ are dark and deserted at night"
+  },
+  {
+    "caption": "The city streets are dark and deserted at night.",
+    "rank_0": 36,
+    "better_rank": 6,
+    "k": 20,
+    "mask_used": "_ _ _ _ dark and deserted at night"
+  },
+  {
+    "caption": "Some dogs stick their heads out the car window.",
+    "rank_0": 27,
+    "better_rank": 9,
+    "k": 20,
+    "mask_used": "_ _ stick their heads out the car window."
+  },
+  {
+    "caption": "Some dogs stick their heads out the car window.",
+    "rank_0": 27,
+    "better_rank": 17,
+    "k": 20,
+    "mask_used": "Some dogs stick their heads out the car _."
+  },
+  {
+    "caption": "Some dogs stick their heads out the car window.",
+    "rank_0": 27,
+    "better_rank": 20,
+    "k": 20,
+    "mask_used": "Some dogs _ _ _ out the car window."
+  },
+  {
+    "caption": "Two old photos with women in a kitchen.",
+    "rank_0": 31,
+    "better_rank": 14,
+    "k": 20,
+    "mask_used": "Two old photos with women _ _ _"
+  },
+  {
+    "caption": "Two old photos with women in a kitchen.",
+    "rank_0": 31,
+    "better_rank": 17,
+    "k": 20,
+    "mask_used": "Two old photos with women in a _"
+  },
+  {
+    "caption": "A half eaten dessert cake sitting on a cake plate.",
+    "rank_0": 22,
+    "better_rank": 17,
+    "k": 20,
+    "mask_used": "_ _ _ dessert cake sitting on a cake plate"
+  },
+  {
+    "caption": "A half eaten dessert cake sitting on a cake plate.",
+    "rank_0": 22,
+    "better_rank": 15,
+    "k": 20,
+    "mask_used": "A half eaten dessert cake _ _ _ _ _ _ _"
+  },
+  {
+    "caption": "A half eaten dessert cake sitting on a cake plate.",
+    "rank_0": 22,
+    "better_rank": 15,
+    "k": 20,
+    "mask_used": "A half eaten dessert cake sitting on a _ _"
+  },
+  {
+    "caption": "A truck nears a stop light in rainy weather.",
+    "rank_0": 26,
+    "better_rank": 20,
+    "k": 20,
+    "mask_used": "_ _ _ a stop light in rainy weather."
+  },
+  {
+    "caption": "A truck nears a stop light in rainy weather.",
+    "rank_0": 26,
+    "better_rank": 10,
+    "k": 20,
+    "mask_used": "A truck nears a stop light in _ _."
+  },
+  {
+    "caption": "A truck nears a stop light in rainy weather.",
+    "rank_0": 26,
+    "better_rank": 15,
+    "k": 20,
+    "mask_used": "A truck nears a stop light in rainy _."
+  },
+  {
+    "caption": "This is an advanced toilet with a sink and control panel.",
+    "rank_0": 34,
+    "better_rank": 14,
+    "k": 20,
+    "mask_used": "This is an advanced toilet _ _ _ _ and control panel"
+  },
+  {
+    "caption": "A car is at a red light in the rain.",
+    "rank_0": 40,
+    "better_rank": 18,
+    "k": 20,
+    "mask_used": "_ _ _ at a red light in the rain."
+  },
+  {
+    "caption": "A car is at a red light in the rain.",
+    "rank_0": 40,
+    "better_rank": 6,
+    "k": 20,
+    "mask_used": "A car is at a red light _ _ _."
+  },
+  {
+    "caption": "A car is at a red light in the rain.",
+    "rank_0": 40,
+    "better_rank": 11,
+    "k": 20,
+    "mask_used": "A car is at a red light in the _."
+  },
+  {
+    "caption": "A dining table with a bowl of garlic cloves.",
+    "rank_0": 32,
+    "better_rank": 15,
+    "k": 20,
+    "mask_used": "A dining table with a bowl of _ _ _"
+  }
+]
