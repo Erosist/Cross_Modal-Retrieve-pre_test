@@ -15,12 +15,12 @@ faiss_index_path = "val2014_faiss_test.index"
 image_ids_path = "val2014_image_ids_test.pt"
 
 
-test_ds_path = "/home/Masked_Reranker/dataset/yerevann/coco-karpathy/test"  # 你下载的 test split arrow 文件夹
+test_ds_path = "/home/Masked_Reranker/dataset/yerevann/coco-karpathy/test"
 ds = load_from_disk(test_ds_path)
 
 test_images = {item['filename']: item['cocoid'] for item in ds}
 
-print(f"找到 test split 图像数: {len(test_images)}")  # 应该是 5000
+print(f"找到 test split 图像数: {len(test_images)}") 
 
 available_files = [f for f in os.listdir(val2014_path) if f in test_images]
 print(f"实际存在于 val2014 的 test 图片数: {len(available_files)}")
@@ -40,7 +40,6 @@ for i in tqdm(range(0, len(available_files), batch_size), desc="计算图片嵌�
         embeds = model.get_image_features(**inputs)
         embeds = torch.nn.functional.normalize(embeds, dim=-1)
     all_embeds.append(embeds.cpu())
-    # 保存对应 cocoid
     image_ids.extend([test_images[f] for f in batch_files])
 
 all_embeds = torch.cat(all_embeds, dim=0).numpy().astype('float32')
