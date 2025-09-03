@@ -1,0 +1,2235 @@
+[
+  {
+    "caption": "A man with a red jacket is shielding himself from the sun trying to read a piece of paper .",
+    "rank_0": 13,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A man with a red jacket is shielding himself from the sun trying to read _ _ _ _ ."
+  },
+  {
+    "caption": "Two kids are running and playing in some water .",
+    "rank_0": 7,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "Two kids are running and playing in _ _ ."
+  },
+  {
+    "caption": "A young child wearing a blue shirt and sandals playing with a red toy while sitting on the floor .",
+    "rank_0": 10,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ _ wearing a blue shirt and sandals playing with a red toy while sitting on the floor ."
+  },
+  {
+    "caption": "A young child wearing a blue shirt and sandals playing with a red toy while sitting on the floor .",
+    "rank_0": 10,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A young child wearing _ _ _ and sandals playing with a red toy while sitting on the floor ."
+  },
+  {
+    "caption": "A young child wearing a blue shirt and sandals playing with a red toy while sitting on the floor .",
+    "rank_0": 10,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A young child wearing a blue shirt and sandals playing with _ _ _ while sitting on the floor ."
+  },
+  {
+    "caption": "A child using an electric mixer in a bowl .",
+    "rank_0": 11,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A child using an electric mixer _ _ _ ."
+  },
+  {
+    "caption": "A child using an electric mixer in a bowl .",
+    "rank_0": 11,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A child using an electric mixer in a _ ."
+  },
+  {
+    "caption": "A man in a blue shirt standing in a garden .",
+    "rank_0": 8,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ _ a blue shirt standing in a garden ."
+  },
+  {
+    "caption": "A man in a blue shirt standing in a garden .",
+    "rank_0": 8,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A man in a blue shirt _ _ _ a garden ."
+  },
+  {
+    "caption": "A little baby is wearing purple pants .",
+    "rank_0": 12,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A little baby _ _ purple pants ."
+  },
+  {
+    "caption": "A little baby is wearing purple pants .",
+    "rank_0": 12,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A little baby is wearing _ _ ."
+  },
+  {
+    "caption": "A woman is laying on a red blanket in a park .",
+    "rank_0": 10,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ _ laying on a red blanket in a park ."
+  },
+  {
+    "caption": "A girl hitting a softball but she missed the ball .",
+    "rank_0": 14,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ hitting a softball but she missed the ball ."
+  },
+  {
+    "caption": "A girl hitting a softball but she missed the ball .",
+    "rank_0": 14,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A girl hitting a softball _ _ _ _ _ ."
+  },
+  {
+    "caption": "A man with a plaid blanket sleeps on a bench near a city street .",
+    "rank_0": 6,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ _ _ a plaid blanket sleeps on a bench near a city street ."
+  },
+  {
+    "caption": "Three people hang out on top of a big hill .",
+    "rank_0": 7,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ _ hang out on top of a big hill ."
+  },
+  {
+    "caption": "A man in an orange hat starring at something .",
+    "rank_0": 19,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A man in an orange hat _ _ _ ."
+  },
+  {
+    "caption": "A man is standing in front of a small red object that looks like a plane .",
+    "rank_0": 15,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A man is _ _ _ _ _ a small red object that looks like a plane ."
+  },
+  {
+    "caption": "A solitary man stand on a bridge in the evening .",
+    "rank_0": 7,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ _ _ stand on a bridge in the evening ."
+  },
+  {
+    "caption": "A solitary man stand on a bridge in the evening .",
+    "rank_0": 7,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A solitary man _ _ a bridge in the evening ."
+  },
+  {
+    "caption": "Men in the business suits are crossing the street  and there are people with placards are gathering on the street .",
+    "rank_0": 17,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "Men in the business suits are crossing the street and there are _ _ _ are gathering on the street"
+  },
+  {
+    "caption": "Men in the business suits are crossing the street  and there are people with placards are gathering on the street .",
+    "rank_0": 17,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "Men in the business suits are crossing the street and there are people with placards are gathering _ _ _"
+  },
+  {
+    "caption": "A person is wearing a lot of jewelry with corn on his or her head .",
+    "rank_0": 7,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A person is wearing a lot of jewelry with corn on _ _ _ _ ."
+  },
+  {
+    "caption": "A person is wearing a lot of jewelry with corn on his or her head .",
+    "rank_0": 7,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "A person is wearing a lot of jewelry _ _ _ _ _ _ _ _ ."
+  },
+  {
+    "caption": "Two men in a kitchen cooking food on a stove .",
+    "rank_0": 9,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "Two men in a _ _ _ _ on a stove ."
+  },
+  {
+    "caption": "Two men in a kitchen cooking food on a stove .",
+    "rank_0": 9,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "Two men in a kitchen _ _ _ _ a stove ."
+  },
+  {
+    "caption": "Two men in a kitchen cooking food on a stove .",
+    "rank_0": 9,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "Two men in a kitchen cooking food on a _ ."
+  },
+  {
+    "caption": "A black dog carrying something through the grass .",
+    "rank_0": 10,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A black dog _ _ through the grass ."
+  },
+  {
+    "caption": "A girl in pigtails splashes in the shallow water .",
+    "rank_0": 14,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ _ pigtails splashes in the shallow water ."
+  },
+  {
+    "caption": "A girl in pigtails splashes in the shallow water .",
+    "rank_0": 14,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "A girl in pigtails _ _ _ _ _ _ ."
+  },
+  {
+    "caption": "A girl in pigtails splashes in the shallow water .",
+    "rank_0": 14,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A girl in pigtails splashes in the _ _ ."
+  },
+  {
+    "caption": "A man and child kayak through gentle waters .",
+    "rank_0": 11,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ _ _ child kayak through gentle waters ."
+  },
+  {
+    "caption": "A man and child kayak through gentle waters .",
+    "rank_0": 11,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A man and child kayak through _ _ ."
+  },
+  {
+    "caption": "Juggling her shopping bags and Betty Boop backpack and young woman crosses a city street .",
+    "rank_0": 8,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ _ her shopping bags and Betty Boop backpack and young woman crosses a city street ."
+  },
+  {
+    "caption": "Juggling her shopping bags and Betty Boop backpack and young woman crosses a city street .",
+    "rank_0": 8,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "Juggling her shopping bags and _ _ _ and young woman crosses a city street ."
+  },
+  {
+    "caption": "A Caucasian young woman in a white hooded sweatshirt sits at a table set for two in a lowly lit restaurant .",
+    "rank_0": 7,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A Caucasian young woman _ _ _ _ _ sits at a table set for two in a lowly lit restaurant ."
+  },
+  {
+    "caption": "a black and white dog jumps to get the Frisbee .",
+    "rank_0": 11,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "a black and white _ _ to get the Frisbee ."
+  },
+  {
+    "caption": "a black and white dog jumps to get the Frisbee .",
+    "rank_0": 11,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "a black and white dog _ _ _ _ the Frisbee ."
+  },
+  {
+    "caption": "Two young men and a young lady walk through a field near the water .",
+    "rank_0": 9,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "Two young men and a young lady walk through a field near _ _ ."
+  },
+  {
+    "caption": "A black dog and a tri-colored dog playing with each other on the road .",
+    "rank_0": 6,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ _ and a tri-colored dog playing with each other on the road ."
+  },
+  {
+    "caption": "A black dog and a tri-colored dog playing with each other on the road .",
+    "rank_0": 6,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A black dog and a tri-colored dog _ _ _ _ _ _ on the road ."
+  },
+  {
+    "caption": "Two dogs run towards each other on a rocky area with water in the background .",
+    "rank_0": 15,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "Two dogs _ _ each other on a rocky area with water in the background ."
+  },
+  {
+    "caption": "Two dogs run towards each other on a rocky area with water in the background .",
+    "rank_0": 15,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "Two dogs run towards each other on a rocky area with _ _ _ ."
+  },
+  {
+    "caption": "A man with gauges and glasses is wearing a Blitz hat .",
+    "rank_0": 7,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ _ gauges and glasses is wearing a Blitz hat ."
+  },
+  {
+    "caption": "A man with gauges and glasses is wearing a Blitz hat .",
+    "rank_0": 7,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A man with _ _ _ is wearing a Blitz hat ."
+  },
+  {
+    "caption": "a man sleeping on a bench outside with a white and black dog sitting next to him .",
+    "rank_0": 9,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ sleeping on a bench outside with a white and black dog sitting next to him ."
+  },
+  {
+    "caption": "a man sleeping on a bench outside with a white and black dog sitting next to him .",
+    "rank_0": 9,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "a man sleeping on a bench outside with a _ _ _ dog sitting next to him ."
+  },
+  {
+    "caption": "a man sleeping on a bench outside with a white and black dog sitting next to him .",
+    "rank_0": 9,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "a man sleeping on a bench outside with a white and black dog _ _ _ _ ."
+  },
+  {
+    "caption": "A man is sitting at a table with a beer .",
+    "rank_0": 6,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A man is sitting at _ _ _ a beer ."
+  },
+  {
+    "caption": "A young woman with dark hair and wearing glasses is putting white powder on a cake using a sifter .",
+    "rank_0": 9,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ _ with dark hair and wearing glasses is putting white powder on a cake using a sifter ."
+  },
+  {
+    "caption": "Two young children eating a snack and playing in the grass .",
+    "rank_0": 9,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ _ eating a snack and playing in the grass ."
+  },
+  {
+    "caption": "Two young children eating a snack and playing in the grass .",
+    "rank_0": 9,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "Two young children eating a snack and _ _ _ _ ."
+  },
+  {
+    "caption": "Two young children eating a snack and playing in the grass .",
+    "rank_0": 9,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "Two young children eating a snack and playing in the _ ."
+  },
+  {
+    "caption": "A man in bright vest and hard hat holds a flag on a street corner covered in spray paint",
+    "rank_0": 7,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ _ bright vest and hard hat holds a flag on a street corner covered in spray paint"
+  },
+  {
+    "caption": "A Asian man wearing a white top and baby blue bottoms is using a broom to remove the dirt of the pavement .",
+    "rank_0": 10,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A Asian man wearing a white top and baby blue bottoms is using a broom to remove the dirt of _ _ ."
+  },
+  {
+    "caption": "A man in a green shirt and red life jacket is sitting in a canoe drifting around the lake .",
+    "rank_0": 12,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A man in a green shirt and red life jacket _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
+  },
+  {
+    "caption": "A security guard on watch duty at the museum .",
+    "rank_0": 12,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ _ on watch duty at the museum ."
+  },
+  {
+    "caption": "A security guard on watch duty at the museum .",
+    "rank_0": 12,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A security guard _ _ _ at the museum ."
+  },
+  {
+    "caption": "Two men  one in a gray shirt  one in a black shirt  standing near a stove .",
+    "rank_0": 10,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "Two men, one in a gray shirt, one in a black shirt, _ _ _ _."
+  },
+  {
+    "caption": "A little boy with a blue shirt on sitting on the ground playing with legos .",
+    "rank_0": 6,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A little boy with _ _ _ on sitting on the ground playing with legos ."
+  },
+  {
+    "caption": "A little boy with a blue shirt on sitting on the ground playing with legos .",
+    "rank_0": 6,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A little boy with a blue shirt on sitting on the ground _ _ _ _ ."
+  },
+  {
+    "caption": "A young boy in swimming trunks is walking with his arms outstretched on the beach .",
+    "rank_0": 6,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A young boy in swimming trunks is walking with his arms _ _ on the beach ."
+  },
+  {
+    "caption": "There are a lot of bikes parked under the curved roof tonight .",
+    "rank_0": 8,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ _ _ _ of bikes parked under the curved roof tonight ."
+  },
+  {
+    "caption": "There are a lot of bikes parked under the curved roof tonight .",
+    "rank_0": 8,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "There are a lot of _ _ _ _ the curved roof tonight ."
+  },
+  {
+    "caption": "Boys dancing on poles in the middle of the night .",
+    "rank_0": 10,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "Boys dancing _ _ in the middle of the night ."
+  },
+  {
+    "caption": "Boys dancing on poles in the middle of the night .",
+    "rank_0": 10,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ dancing on poles in the middle of the night ."
+  },
+  {
+    "caption": "A girl with pigtails plays in the water .",
+    "rank_0": 7,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ _ pigtails plays in the water ."
+  },
+  {
+    "caption": "A girl with pigtails plays in the water .",
+    "rank_0": 7,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "A girl with pigtails _ _ _ _ ."
+  },
+  {
+    "caption": "A girl with pigtails plays in the water .",
+    "rank_0": 7,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "A girl with pigtails plays in the _ ."
+  },
+  {
+    "caption": "A security man with his watch dog is looking for something .",
+    "rank_0": 7,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A security man with his watch dog is looking for _ ."
+  },
+  {
+    "caption": "An officer in a reflective vest stands at the front of his van with his dog .",
+    "rank_0": 12,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "An officer in _ _ _ stands at the front of his van with his dog ."
+  },
+  {
+    "caption": "Three men on a large rig .",
+    "rank_0": 19,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ _ on a large rig ."
+  },
+  {
+    "caption": "A girl playing softball hits the ball almost directly downwards",
+    "rank_0": 16,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ playing softball hits the ball almost directly downwards"
+  },
+  {
+    "caption": "A girl playing softball hits the ball almost directly downwards",
+    "rank_0": 16,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A girl _ _ hits the ball almost directly downwards"
+  },
+  {
+    "caption": "A girl playing softball hits the ball almost directly downwards",
+    "rank_0": 16,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A girl playing softball hits the ball almost _ _"
+  },
+  {
+    "caption": "A black dog and a brown dog are jumping up to catch a red toy .",
+    "rank_0": 17,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A black dog and a brown dog are _ _ _ _ _ a red toy ."
+  },
+  {
+    "caption": "A girl in a green skirt is singing Karaoke .",
+    "rank_0": 6,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "A girl in a green skirt is singing _ ."
+  },
+  {
+    "caption": "A group of people sit on a wall at the beach .",
+    "rank_0": 17,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A group of people sit _ _ _ at the beach ."
+  },
+  {
+    "caption": "Two separate women  one wearing a white top and black pants  the other wearing all black and a pair of pink flip-flops  kneel on a gray brick sidewalk path in front of green and red bushes .",
+    "rank_0": 16,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ _ one wearing a white top and black pants  the other wearing all black and a pair of pink flip-flops  kneel on a gray brick sidewalk path in front of green and red bushes ."
+  },
+  {
+    "caption": "A man is standing on a ladder painting bricks",
+    "rank_0": 10,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ is standing on a ladder painting bricks"
+  },
+  {
+    "caption": "A boy smiles in front of a stony wall in a city .",
+    "rank_0": 13,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A boy smiles in front of _ _ _ in a city ."
+  },
+  {
+    "caption": "A man on stage playing the electric guitar during a concert .",
+    "rank_0": 7,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ _ stage playing the electric guitar during a concert ."
+  },
+  {
+    "caption": "A skier is overlooking a snow-covered mountain .",
+    "rank_0": 6,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ is overlooking a snow-covered mountain ."
+  },
+  {
+    "caption": "A skier is overlooking a snow-covered mountain .",
+    "rank_0": 6,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A skier _ overlooking a snow-covered mountain ."
+  },
+  {
+    "caption": "A skier is overlooking a snow-covered mountain .",
+    "rank_0": 6,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A skier is overlooking _ _-_ mountain ."
+  },
+  {
+    "caption": "A little boy playing with his toy .",
+    "rank_0": 8,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A little boy playing with _ _ ."
+  },
+  {
+    "caption": "A little boy playing with his toy .",
+    "rank_0": 8,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ little boy playing with his toy ."
+  },
+  {
+    "caption": "A little boy at a lake watching a duck .",
+    "rank_0": 13,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A little boy at a lake _ _ _ ."
+  },
+  {
+    "caption": "A little boy at a lake watching a duck .",
+    "rank_0": 13,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A little boy at a lake watching a _ ."
+  },
+  {
+    "caption": "A tan dog runs on a sandy beach .",
+    "rank_0": 11,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ _ _ runs on a sandy beach ."
+  },
+  {
+    "caption": "A tan dog runs on a sandy beach .",
+    "rank_0": 11,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A tan dog runs on _ _ _ ."
+  },
+  {
+    "caption": "A tan dog runs on a sandy beach .",
+    "rank_0": 11,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ dog runs on a sandy beach ."
+  },
+  {
+    "caption": "A man wearing a red life-vest is sitting in a canoe on a body of water .",
+    "rank_0": 13,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A man wearing a red life-vest is sitting in a _ _ _ _ _ _ ."
+  },
+  {
+    "caption": "Someone sleeping on bench on city street .",
+    "rank_0": 10,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ on bench on city street ."
+  },
+  {
+    "caption": "Someone sleeping on bench on city street .",
+    "rank_0": 10,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ on bench on city street ."
+  },
+  {
+    "caption": "a group of joggers running on the sidewalk .",
+    "rank_0": 12,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "a group of joggers running on the _ ."
+  },
+  {
+    "caption": "Young boy with blond-hair playing with a mixer .",
+    "rank_0": 7,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "Young boy with _ _ playing with a mixer ."
+  },
+  {
+    "caption": "The lady is pushing a child in a stroller .",
+    "rank_0": 12,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "The lady _ _ a child in a stroller ."
+  },
+  {
+    "caption": "A man is fixing the guitar players costume .",
+    "rank_0": 8,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ is fixing the guitar players costume ."
+  },
+  {
+    "caption": "A man in sunglasses puts his arm around a woman in a black and white blouse .",
+    "rank_0": 6,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ _ _ sunglasses puts his arm around a woman in a black and white blouse ."
+  },
+  {
+    "caption": "A man in sunglasses puts his arm around a woman in a black and white blouse .",
+    "rank_0": 6,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A man in sunglasses _ _ _ around a woman in a black and white blouse ."
+  },
+  {
+    "caption": "A man in sunglasses puts his arm around a woman in a black and white blouse .",
+    "rank_0": 6,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A man in sunglasses puts his arm around a _ _ a black and white blouse ."
+  },
+  {
+    "caption": "People sit on the mountainside and check out the view .",
+    "rank_0": 6,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ sit on the mountainside and check out the view ."
+  },
+  {
+    "caption": "A man sleeping in a green room on a couch .",
+    "rank_0": 9,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A man sleeping in a green room on a _ ."
+  },
+  {
+    "caption": "Two guy cooking and joking around with the camera .",
+    "rank_0": 6,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "Two guy cooking and joking around with _ _ ."
+  },
+  {
+    "caption": "A person eats takeout while watching a small television .",
+    "rank_0": 8,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ _ eats takeout while watching a small television ."
+  },
+  {
+    "caption": "A person eats takeout while watching a small television .",
+    "rank_0": 8,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A person eats takeout while watching a _ _ ."
+  },
+  {
+    "caption": "Two women in colorful clothing are cleaning the road .",
+    "rank_0": 14,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "Two women in colorful clothing are cleaning _ _ ."
+  },
+  {
+    "caption": "A child in a pink dress is climbing up a set of stairs in an entry way .",
+    "rank_0": 9,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A child in a pink dress is climbing up a set of stairs _ _ _ _ ."
+  },
+  {
+    "caption": "A baby boy crying standing on a field of grass .",
+    "rank_0": 11,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ _ crying standing on a field of grass ."
+  },
+  {
+    "caption": "A baby boy crying standing on a field of grass .",
+    "rank_0": 11,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A baby boy _ _ on a field of grass ."
+  },
+  {
+    "caption": "A young man in sunglasses holds a blue cup next to a grill with sausages .",
+    "rank_0": 13,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ _ _ in sunglasses holds a blue cup next to a grill with sausages ."
+  },
+  {
+    "caption": "A young man in sunglasses holds a blue cup next to a grill with sausages .",
+    "rank_0": 13,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A young man in _ _ a blue cup next to a grill with sausages ."
+  },
+  {
+    "caption": "A young man in sunglasses holds a blue cup next to a grill with sausages .",
+    "rank_0": 13,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "A young man in sunglasses holds a blue cup next to a _ _ _ ."
+  },
+  {
+    "caption": "A man lays on the bench to which a white dog is also tied .",
+    "rank_0": 8,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A man lays on the bench to which a white dog is also _ ."
+  },
+  {
+    "caption": "A man stands by an elevator with his head down .",
+    "rank_0": 18,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ stands by an elevator with his head down ."
+  },
+  {
+    "caption": "A person in gray stands alone on a structure outdoors in the dark .",
+    "rank_0": 7,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A person in _ _ alone on a structure outdoors in the dark ."
+  },
+  {
+    "caption": "A person in gray stands alone on a structure outdoors in the dark .",
+    "rank_0": 7,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A person in gray stands alone on a structure outdoors in the _ ."
+  },
+  {
+    "caption": "A man with glasses is sitting a chair playing the oboe while a man in a purple shirt plays percussion and spectators look on .",
+    "rank_0": 16,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "A man with glasses is sitting a chair playing the oboe while a man in a purple shirt plays percussion and _ _ ."
+  },
+  {
+    "caption": "Two men sitting on a bench in front of a sign with a picture of man and a lady .",
+    "rank_0": 13,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ sitting on a bench in front of a sign with a picture of man and a lady ."
+  },
+  {
+    "caption": "Two men sitting on a bench in front of a sign with a picture of man and a lady .",
+    "rank_0": 13,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "Two men _ _ _ _ in front of a sign with a picture of man and a lady ."
+  },
+  {
+    "caption": "Five hikers  one facing towards the camera and the others facing away from it  are walking through a rocky riverbed .",
+    "rank_0": 8,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ _ one facing towards the camera and the others facing away from it are walking through a rocky riverbed"
+  },
+  {
+    "caption": "A young man sits on the floor by the television with a fast food meal in front of him .",
+    "rank_0": 11,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ _ _ sits on the floor by the television with a fast food meal in front of him ."
+  },
+  {
+    "caption": "Couple with a baby sit outdoors next to their stroller .",
+    "rank_0": 15,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "Couple with a baby sit outdoors _ _ _ _ ."
+  },
+  {
+    "caption": "Couple with a baby sit outdoors next to their stroller .",
+    "rank_0": 15,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ _ _ sit outdoors next to their _ ."
+  },
+  {
+    "caption": "A black and white dog jumps up towards a yellow toy .",
+    "rank_0": 10,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A black and white dog jumps up towards _ _ _ ."
+  },
+  {
+    "caption": "A standing woman holds a pan over a cake .",
+    "rank_0": 7,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ _ holds a pan over a cake ."
+  },
+  {
+    "caption": "A very bus street is shown with Asian people all around walking and riding bicycles .",
+    "rank_0": 10,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ _ _ street is shown with Asian people all around walking and riding bicycles ."
+  },
+  {
+    "caption": "Several Asians eat food outdoors .",
+    "rank_0": 9,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "Several Asians eat food _ ."
+  },
+  {
+    "caption": "A person standing on a frozen lake .",
+    "rank_0": 11,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ standing on a frozen lake ."
+  },
+  {
+    "caption": "Two kids are laughing in the grass .",
+    "rank_0": 8,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "Two kids are laughing _ _ _ ."
+  },
+  {
+    "caption": "Firemen stand outside of their firetruck with all its lights on .",
+    "rank_0": 10,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "_ _ outside of their firetruck with all its lights on ."
+  },
+  {
+    "caption": "Firemen stand outside of their firetruck with all its lights on .",
+    "rank_0": 10,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "Firemen stand _ _ _ firetruck with all its lights on ."
+  },
+  {
+    "caption": "Firemen stand outside of their firetruck with all its lights on .",
+    "rank_0": 10,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "Firemen stand outside of their _ _ _ all its lights on ."
+  },
+  {
+    "caption": "Light brown dog running along the beach .",
+    "rank_0": 9,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ _ dog running along the beach ."
+  },
+  {
+    "caption": "Light brown dog running along the beach .",
+    "rank_0": 9,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "Light brown _ running along the beach ."
+  },
+  {
+    "caption": "A man with wild hair rocks a show playing a guitar center stage .",
+    "rank_0": 8,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A man with wild hair rocks a show _ _ _ guitar center stage ."
+  },
+  {
+    "caption": "A balding man wearing a red life jacket is sitting in a small boat .",
+    "rank_0": 12,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A balding man _ _ _ _ _ is sitting in a small boat ."
+  },
+  {
+    "caption": "People gathered in a room to talk about their favorite tunes .",
+    "rank_0": 13,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ gathered in a room to talk about their favorite tunes ."
+  },
+  {
+    "caption": "People gathered in a room to talk about their favorite tunes .",
+    "rank_0": 13,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "People gathered _ _ _ to talk about their favorite tunes ."
+  },
+  {
+    "caption": "Several men in hard hats are operating a giant pulley system .",
+    "rank_0": 14,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "Several men in _ _ are operating a giant pulley system"
+  },
+  {
+    "caption": "Two young  White males are outside near many bushes .",
+    "rank_0": 8,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ _ _ _ are outside near many bushes ."
+  },
+  {
+    "caption": "Two young  White males are outside near many bushes .",
+    "rank_0": 8,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "Two young White males _ _ _ many bushes ."
+  },
+  {
+    "caption": "Two young  White males are outside near many bushes .",
+    "rank_0": 8,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "Two young White males are outside near _ _ ."
+  },
+  {
+    "caption": "A gray dog is leaping over a fallen tree .",
+    "rank_0": 6,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "_ _ _ is leaping over a fallen tree ."
+  },
+  {
+    "caption": "A gray dog is leaping over a fallen tree .",
+    "rank_0": 6,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A gray dog _ _ _ a fallen tree ."
+  },
+  {
+    "caption": "A gray dog is leaping over a fallen tree .",
+    "rank_0": 6,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ gray dog is leaping over a fallen tree ."
+  },
+  {
+    "caption": "A woman in a blue shirt and sunglasses lies on a red blanket in a grassy field with a bike set down next to her .",
+    "rank_0": 6,
+    "better_rank": 0,
+    "k": 5,
+    "mask_used": "_ _ _ a blue shirt and sunglasses lies on a red blanket in a grassy field with a bike set down next to her ."
+  },
+  {
+    "caption": "A woman in a blue shirt and sunglasses lies on a red blanket in a grassy field with a bike set down next to her .",
+    "rank_0": 6,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "A woman in a blue shirt and sunglasses lies on a red blanket in a grassy field with a bike set down next to _ ."
+  },
+  {
+    "caption": "A group of snowmobile riders gather in the snow .",
+    "rank_0": 17,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A group of _ _ gather in the snow ."
+  },
+  {
+    "caption": "A group of snowmobile riders gather in the snow .",
+    "rank_0": 17,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A group of snowmobile riders _ _ _ _ ."
+  },
+  {
+    "caption": "Two little children  one boy and one girl  laugh as they sit on the grass .",
+    "rank_0": 9,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "Two little children _ _ _ _ _ laugh as they sit on the grass"
+  },
+  {
+    "caption": "Two little children  one boy and one girl  laugh as they sit on the grass .",
+    "rank_0": 9,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "Two little children one boy and one girl _ _ _ _ _ _ _ _ _"
+  },
+  {
+    "caption": "Some women are standing in front of a bus with buildings behind it .",
+    "rank_0": 13,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "Some women are standing in front of _ _ _ _ buildings behind it ."
+  },
+  {
+    "caption": "a couple of several people sitting on a ledge overlooking the beach",
+    "rank_0": 7,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ _ several people sitting on a ledge overlooking the beach"
+  },
+  {
+    "caption": "Man in red jacket shielding face from the sun to read .",
+    "rank_0": 10,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "Man in red jacket shielding face from the sun _ _ ."
+  },
+  {
+    "caption": "A girls plays in the surf .",
+    "rank_0": 8,
+    "better_rank": 1,
+    "k": 5,
+    "mask_used": "A girls plays in _ _ ."
+  },
+  {
+    "caption": "A man with a badge is standing on a wood floor next to a structure .",
+    "rank_0": 17,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ _ a badge is standing on a wood floor next to a structure ."
+  },
+  {
+    "caption": "A man with a badge is standing on a wood floor next to a structure .",
+    "rank_0": 17,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A man with _ _ _ standing on a wood floor next to a structure ."
+  },
+  {
+    "caption": "Three people are on a hilltop overlooking a green valley .",
+    "rank_0": 6,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ _ are on a hilltop overlooking a green valley ."
+  },
+  {
+    "caption": "Three people are on a hilltop overlooking a green valley .",
+    "rank_0": 6,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "Three people are on a _ overlooking a green valley ."
+  },
+  {
+    "caption": "Lady in blue coat with white and brown hat standing in front of a painting .",
+    "rank_0": 8,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "Lady in blue coat with white and brown hat _ _ _ _ _ _ _ _ ."
+  },
+  {
+    "caption": "A dog leaps to catch a ball in a field .",
+    "rank_0": 15,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ leaps to catch a ball in a field ."
+  },
+  {
+    "caption": "A woman in a white shirt is sitting at a table in a nice restaurant .",
+    "rank_0": 15,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A woman in a _ _ is sitting at a table in a nice restaurant ."
+  },
+  {
+    "caption": "Four people are jumping from the top of a flight of stairs .",
+    "rank_0": 17,
+    "better_rank": 4,
+    "k": 5,
+    "mask_used": "_ _ _ jumping from the top of a flight of stairs ."
+  },
+  {
+    "caption": "Four people are jumping from the top of a flight of stairs .",
+    "rank_0": 17,
+    "better_rank": 3,
+    "k": 5,
+    "mask_used": "_ _ _ _ are jumping from the top of a flight of stairs ."
+  },
+  {
+    "caption": "Two men are at the stove preparing food .",
+    "rank_0": 6,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "Two men are at the stove _ _ ."
+  },
+  {
+    "caption": "Two men are at the stove preparing food .",
+    "rank_0": 6,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "Two men are at the stove preparing _ ."
+  },
+  {
+    "caption": "A gymnast performing on the balance beam in front of an audience .",
+    "rank_0": 6,
+    "better_rank": 2,
+    "k": 5,
+    "mask_used": "A gymnast _ _ the balance beam in front of an audience ."
+  },
+  {
+    "caption": "A gymnast performing on the balance beam in front of an audience .",
+    "rank_0": 6,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "A gymnast performing on the balance beam _ _ _ _ ."
+  },
+  {
+    "caption": "The white and brown dog is running over the surface of the snow .",
+    "rank_0": 12,
+    "better_rank": 5,
+    "k": 5,
+    "mask_used": "_ _ _ _ dog is running over the surface of the snow ."
+  },
+  {
+    "caption": "A man with a red jacket is shielding himself from the sun trying to read a piece of paper .",
+    "rank_0": 13,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "A man with a red jacket is shielding himself from the sun trying to read _ _ _ _ ."
+  },
+  {
+    "caption": "Reflections from the firemen 's uniforms .",
+    "rank_0": 13,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "_ _ the firemen 's uniforms ."
+  },
+  {
+    "caption": "Two young toddlers outside on the grass .",
+    "rank_0": 18,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "Two young toddlers outside on the _ ."
+  },
+  {
+    "caption": "A child using an electric mixer in a bowl .",
+    "rank_0": 11,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "A child using an electric mixer _ _ _ ."
+  },
+  {
+    "caption": "A child using an electric mixer in a bowl .",
+    "rank_0": 11,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "A child using an electric mixer in a _ ."
+  },
+  {
+    "caption": "A little baby is wearing purple pants .",
+    "rank_0": 12,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A little baby _ _ purple pants ."
+  },
+  {
+    "caption": "A little baby is wearing purple pants .",
+    "rank_0": 12,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "A little baby is wearing _ _ ."
+  },
+  {
+    "caption": "A fish sellers stock is looked upon by two old men .",
+    "rank_0": 16,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "A fish sellers stock is looked upon by _ _ _ ."
+  },
+  {
+    "caption": "Older man working in a factory not looking too excited about the photograph .",
+    "rank_0": 15,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "_ _ _ working in a factory not looking too excited about the photograph ."
+  },
+  {
+    "caption": "Man taking a photograph of a well dressed group of teens .",
+    "rank_0": 17,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "_ taking a photograph of a well dressed group of teens ."
+  },
+  {
+    "caption": "Man taking a photograph of a well dressed group of teens .",
+    "rank_0": 17,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "Man taking a photograph of a well dressed group of _ ."
+  },
+  {
+    "caption": "A girl hitting a softball but she missed the ball .",
+    "rank_0": 14,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "_ _ hitting a softball but she missed the ball ."
+  },
+  {
+    "caption": "A girl hitting a softball but she missed the ball .",
+    "rank_0": 14,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A girl _ _ _ but she missed the ball ."
+  },
+  {
+    "caption": "A girl hitting a softball but she missed the ball .",
+    "rank_0": 14,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A girl hitting a softball _ _ _ _ _ ."
+  },
+  {
+    "caption": "a large lake with a lone duck swimming in it with several people around the edge of it .",
+    "rank_0": 12,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "a large lake with _ _ _ swimming in it with several people around the edge of it ."
+  },
+  {
+    "caption": "a large lake with a lone duck swimming in it with several people around the edge of it .",
+    "rank_0": 12,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "a large lake with a lone duck swimming in it with _ _ _ around the edge of it ."
+  },
+  {
+    "caption": "a large lake with a lone duck swimming in it with several people around the edge of it .",
+    "rank_0": 12,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "a large lake with a lone duck swimming in it with several people around the edge of _ ."
+  },
+  {
+    "caption": "A little girl in a pink shirt and a little girl in an orange shirt sitting in the grass .",
+    "rank_0": 13,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A little girl in a pink shirt and a little girl in an orange shirt _ _ _ _ ."
+  },
+  {
+    "caption": "A little girl in a pink shirt and a little girl in an orange shirt sitting in the grass .",
+    "rank_0": 13,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A little girl in a pink shirt and a little girl in an orange shirt sitting in the _ ."
+  },
+  {
+    "caption": "A boy jumps on his skateboard while a crowd watches",
+    "rank_0": 13,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "_ _ jumps on his skateboard while a crowd watches"
+  },
+  {
+    "caption": "A boy jumps on his skateboard while a crowd watches",
+    "rank_0": 13,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "A boy jumps on his skateboard while _ _ _"
+  },
+  {
+    "caption": "Two kids sit on a seesaw .",
+    "rank_0": 11,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "Two kids sit on a _ ."
+  },
+  {
+    "caption": "A man in an orange hat starring at something .",
+    "rank_0": 19,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "_ _ _ an orange hat starring at something ."
+  },
+  {
+    "caption": "A man in an orange hat starring at something .",
+    "rank_0": 19,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "A man in an orange hat _ _ _ ."
+  },
+  {
+    "caption": "A man is standing in front of a small red object that looks like a plane .",
+    "rank_0": 15,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "_ _ _ standing in front of a small red object that looks like a plane ."
+  },
+  {
+    "caption": "A man is standing in front of a small red object that looks like a plane .",
+    "rank_0": 15,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A man is standing in front of a small red object that looks like a _ ."
+  },
+  {
+    "caption": "A man is standing in front of a small red object that looks like a plane .",
+    "rank_0": 15,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "A man is _ _ _ _ _ a small red object that looks like a plane ."
+  },
+  {
+    "caption": "Men in the business suits are crossing the street  and there are people with placards are gathering on the street .",
+    "rank_0": 17,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "_ _ the business suits are crossing the street and there are people with placards are gathering on the street"
+  },
+  {
+    "caption": "Men in the business suits are crossing the street  and there are people with placards are gathering on the street .",
+    "rank_0": 17,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "Men in the business suits are crossing the street and there are _ _ _ are gathering on the street"
+  },
+  {
+    "caption": "Men in the business suits are crossing the street  and there are people with placards are gathering on the street .",
+    "rank_0": 17,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "Men in the business suits are crossing the street and there are people with placards are gathering _ _ _"
+  },
+  {
+    "caption": "Six people are sitting at a table eating food .",
+    "rank_0": 18,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "Six people _ _ _ _ _ eating food ."
+  },
+  {
+    "caption": "Six people are sitting at a table eating food .",
+    "rank_0": 18,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "Six people are sitting _ _ _ eating food ."
+  },
+  {
+    "caption": "A girl in pigtails splashes in the shallow water .",
+    "rank_0": 14,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "_ _ _ pigtails splashes in the shallow water ."
+  },
+  {
+    "caption": "A girl in pigtails splashes in the shallow water .",
+    "rank_0": 14,
+    "better_rank": 0,
+    "k": 10,
+    "mask_used": "A girl in pigtails _ _ _ _ _ _ ."
+  },
+  {
+    "caption": "A girl in pigtails splashes in the shallow water .",
+    "rank_0": 14,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "A girl in pigtails splashes in the _ _ ."
+  },
+  {
+    "caption": "A man and child kayak through gentle waters .",
+    "rank_0": 11,
+    "better_rank": 0,
+    "k": 10,
+    "mask_used": "_ _ _ child kayak through gentle waters ."
+  },
+  {
+    "caption": "A man and child kayak through gentle waters .",
+    "rank_0": 11,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "A man and child kayak through _ _ ."
+  },
+  {
+    "caption": "A boy bites hard into a treat while he sits outside .",
+    "rank_0": 18,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A boy bites hard into a treat while _ _ _ ."
+  },
+  {
+    "caption": "A boy bites hard into a treat while he sits outside .",
+    "rank_0": 18,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "A boy bites hard _ _ _ while he sits outside ."
+  },
+  {
+    "caption": "A dog shakes its head near the shore  a red ball next to it .",
+    "rank_0": 17,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "_ _ shakes its head near the shore a red ball next to it ."
+  },
+  {
+    "caption": "A dog shakes its head near the shore  a red ball next to it .",
+    "rank_0": 17,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "A dog shakes its head near the shore a red ball next to _ ."
+  },
+  {
+    "caption": "Three men are working on a roof .",
+    "rank_0": 12,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "_ _ _ working on a roof ."
+  },
+  {
+    "caption": "Two women and three men are hiking along a rocky stream .",
+    "rank_0": 11,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "Two women and three men are hiking along a _ _ ."
+  },
+  {
+    "caption": "A man in a green sweater and black vest sitting in a booth .",
+    "rank_0": 14,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "_ _ _ a green sweater and black vest sitting in a booth ."
+  },
+  {
+    "caption": "A man in a green sweater and black vest sitting in a booth .",
+    "rank_0": 14,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "A man in a green sweater and _ _ sitting in a booth ."
+  },
+  {
+    "caption": "A man in a green sweater and black vest sitting in a booth .",
+    "rank_0": 14,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A man in a green sweater and black vest _ _ _ _ ."
+  },
+  {
+    "caption": "A man in a white t-shirt looks toward the camera surrounded by a crowd near a metro station .",
+    "rank_0": 11,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "_ _ _ a white t-shirt looks toward the camera surrounded by a crowd near a metro station ."
+  },
+  {
+    "caption": "A man in a white t-shirt looks toward the camera surrounded by a crowd near a metro station .",
+    "rank_0": 11,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "A man in a white t-shirt looks toward the camera surrounded by _ _ _ _ a metro station ."
+  },
+  {
+    "caption": "Two construction workers sitting on an I-beam .",
+    "rank_0": 18,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "Two construction workers sitting on an _ ."
+  },
+  {
+    "caption": "a black and white dog jumps to get the Frisbee .",
+    "rank_0": 11,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "a black and white _ _ to get the Frisbee ."
+  },
+  {
+    "caption": "a black and white dog jumps to get the Frisbee .",
+    "rank_0": 11,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "a black and white dog _ _ _ _ the Frisbee ."
+  },
+  {
+    "caption": "A meal is on a table in a restaurant .",
+    "rank_0": 15,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A meal is on a table in a _ ."
+  },
+  {
+    "caption": "A person with gray hair is painting in a public place surrounded by others who are also painting .",
+    "rank_0": 15,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "_ _ _ gray hair is painting in a public place surrounded by others who are also painting ."
+  },
+  {
+    "caption": "A person with gray hair is painting in a public place surrounded by others who are also painting .",
+    "rank_0": 15,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "A person with gray hair is painting in a _ _ surrounded by others who are also painting ."
+  },
+  {
+    "caption": "Two dogs run towards each other on a rocky area with water in the background .",
+    "rank_0": 15,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "Two dogs _ _ each other on a rocky area with water in the background ."
+  },
+  {
+    "caption": "Two dogs run towards each other on a rocky area with water in the background .",
+    "rank_0": 15,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "Two dogs run towards each other on a rocky area with _ _ _ ."
+  },
+  {
+    "caption": "The man with the backpack is sitting in a buildings courtyard in front of an art sculpture reading .",
+    "rank_0": 16,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "_ _ _ the backpack is sitting in a buildings courtyard in front of an art sculpture reading ."
+  },
+  {
+    "caption": "The man with the backpack is sitting in a buildings courtyard in front of an art sculpture reading .",
+    "rank_0": 16,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "The man with the _ _ _ _ in a buildings courtyard in front of an art sculpture reading ."
+  },
+  {
+    "caption": "The man with the backpack is sitting in a buildings courtyard in front of an art sculpture reading .",
+    "rank_0": 16,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "The man with the backpack is sitting in a _ _ _ _ in front of an art sculpture reading ."
+  },
+  {
+    "caption": "Three men are standing at night near a black car near a shelter filled with bicycles .",
+    "rank_0": 11,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "_ _ _ are standing at night near a black car near a shelter filled with bicycles ."
+  },
+  {
+    "caption": "Three men are standing at night near a black car near a shelter filled with bicycles .",
+    "rank_0": 11,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "Three men are standing at night near a black car near a _ _ _ _ _ _ _ ."
+  },
+  {
+    "caption": "Three men are standing at night near a black car near a shelter filled with bicycles .",
+    "rank_0": 11,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "Three men are standing _ _ _ _ a black car near a shelter filled with bicycles ."
+  },
+  {
+    "caption": "A man in a green shirt and red life jacket is sitting in a canoe drifting around the lake .",
+    "rank_0": 12,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "_ _ _ a green shirt and red life jacket is sitting in a canoe drifting around the lake"
+  },
+  {
+    "caption": "A man in a green shirt and red life jacket is sitting in a canoe drifting around the lake .",
+    "rank_0": 12,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A man in a green shirt and red life jacket is sitting in a canoe drifting around _ _"
+  },
+  {
+    "caption": "A man in a green shirt and red life jacket is sitting in a canoe drifting around the lake .",
+    "rank_0": 12,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "A man in a green shirt and red life jacket _ _ _ _ _ _ _ _ _ _ _ _ _ _ _"
+  },
+  {
+    "caption": "A man in a green shirt and red life jacket is sitting in a canoe drifting around the lake .",
+    "rank_0": 12,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "A man in a green shirt and red life jacket is sitting in a _ _ _ _ _ _ _ _ _"
+  },
+  {
+    "caption": "A security guard on watch duty at the museum .",
+    "rank_0": 12,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "_ _ _ on watch duty at the museum ."
+  },
+  {
+    "caption": "A security guard on watch duty at the museum .",
+    "rank_0": 12,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "A security guard _ _ _ at the museum ."
+  },
+  {
+    "caption": "A security guard on watch duty at the museum .",
+    "rank_0": 12,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "A _ _ on watch duty at the museum ."
+  },
+  {
+    "caption": "A group of teens sit on a wall by a beach .",
+    "rank_0": 14,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "A group of teens _ _ _ _ by a beach ."
+  },
+  {
+    "caption": "A black dog running in the surf .",
+    "rank_0": 11,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A black dog _ _ _ _ _ ."
+  },
+  {
+    "caption": "A little boy and a girl sitting down in the grass having fun .",
+    "rank_0": 15,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A little boy and a girl sitting down in the grass _ _ _ ."
+  },
+  {
+    "caption": "An officer in a reflective vest stands at the front of his van with his dog .",
+    "rank_0": 12,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "An officer in _ _ _ stands at the front of his van with his dog ."
+  },
+  {
+    "caption": "Three men on a large rig .",
+    "rank_0": 19,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "_ _ _ on a large rig ."
+  },
+  {
+    "caption": "A girl playing softball hits the ball almost directly downwards",
+    "rank_0": 16,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "_ _ playing softball hits the ball almost directly downwards"
+  },
+  {
+    "caption": "A girl playing softball hits the ball almost directly downwards",
+    "rank_0": 16,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A girl _ _ hits the ball almost directly downwards"
+  },
+  {
+    "caption": "A girl playing softball hits the ball almost directly downwards",
+    "rank_0": 16,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "A girl playing softball hits the ball almost _ _"
+  },
+  {
+    "caption": "A black dog and a brown dog are jumping up to catch a red toy .",
+    "rank_0": 17,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "A black dog and a brown dog are _ _ _ _ _ a red toy ."
+  },
+  {
+    "caption": "A man is sitting at a table with a drink .",
+    "rank_0": 17,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A man is sitting at a _ _ _ _ ."
+  },
+  {
+    "caption": "A group of people sit on a wall at the beach .",
+    "rank_0": 17,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A group of people sit _ _ _ at the beach ."
+  },
+  {
+    "caption": "Two separate women  one wearing a white top and black pants  the other wearing all black and a pair of pink flip-flops  kneel on a gray brick sidewalk path in front of green and red bushes .",
+    "rank_0": 16,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "_ _ _ one wearing a white top and black pants  the other wearing all black and a pair of pink flip-flops  kneel on a gray brick sidewalk path in front of green and red bushes ."
+  },
+  {
+    "caption": "The white dog is playing in a green field with a yellow toy .",
+    "rank_0": 12,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "The white dog _ _ _ _ a green field with a yellow toy ."
+  },
+  {
+    "caption": "The white dog is playing in a green field with a yellow toy .",
+    "rank_0": 12,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "The white dog is playing in a _ _ _ with a yellow toy ."
+  },
+  {
+    "caption": "A boy smiles in front of a stony wall in a city .",
+    "rank_0": 13,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "A boy smiles in front of _ _ _ in a city ."
+  },
+  {
+    "caption": "A little boy at a lake watching a duck .",
+    "rank_0": 13,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "A little boy at a lake _ _ _ ."
+  },
+  {
+    "caption": "A little boy at a lake watching a duck .",
+    "rank_0": 13,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "A little boy at a lake watching a _ ."
+  },
+  {
+    "caption": "A tan dog runs on a sandy beach .",
+    "rank_0": 11,
+    "better_rank": 0,
+    "k": 10,
+    "mask_used": "_ _ _ runs on a sandy beach ."
+  },
+  {
+    "caption": "A tan dog runs on a sandy beach .",
+    "rank_0": 11,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A tan dog runs on _ _ _ ."
+  },
+  {
+    "caption": "A tan dog runs on a sandy beach .",
+    "rank_0": 11,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "_ _ dog runs on a sandy beach ."
+  },
+  {
+    "caption": "A man wearing a red life-vest is sitting in a canoe on a body of water .",
+    "rank_0": 13,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "_ _ wearing a red life-vest is sitting in a canoe on a body of water ."
+  },
+  {
+    "caption": "A man wearing a red life-vest is sitting in a canoe on a body of water .",
+    "rank_0": 13,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "A man wearing a red life-vest is sitting in a _ _ _ _ _ _ ."
+  },
+  {
+    "caption": "A man in black wields a sword in front of rolling  green hills .",
+    "rank_0": 16,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A man in black wields a sword _ _ _ _ rolling green hills ."
+  },
+  {
+    "caption": "a group of joggers running on the sidewalk .",
+    "rank_0": 12,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "a group of joggers running on the _ ."
+  },
+  {
+    "caption": "The lady is pushing a child in a stroller .",
+    "rank_0": 12,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "_ _ is pushing a child in a stroller ."
+  },
+  {
+    "caption": "The lady is pushing a child in a stroller .",
+    "rank_0": 12,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "The lady _ _ a child in a stroller ."
+  },
+  {
+    "caption": "The lady is pushing a child in a stroller .",
+    "rank_0": 12,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "The lady is pushing _ _ in a stroller ."
+  },
+  {
+    "caption": "A group of hikers traveling along a rock strewn creek bed .",
+    "rank_0": 15,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "A group of _ traveling along a rock strewn creek bed ."
+  },
+  {
+    "caption": "Two women in colorful clothing are cleaning the road .",
+    "rank_0": 14,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "Two women in colorful clothing are cleaning _ _ ."
+  },
+  {
+    "caption": "A baby boy crying standing on a field of grass .",
+    "rank_0": 11,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "_ _ _ crying standing on a field of grass ."
+  },
+  {
+    "caption": "A baby boy crying standing on a field of grass .",
+    "rank_0": 11,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "A baby boy _ _ on a field of grass ."
+  },
+  {
+    "caption": "A baby boy crying standing on a field of grass .",
+    "rank_0": 11,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "A baby boy crying standing on a _ _ _ ."
+  },
+  {
+    "caption": "A young man in sunglasses holds a blue cup next to a grill with sausages .",
+    "rank_0": 13,
+    "better_rank": 0,
+    "k": 10,
+    "mask_used": "_ _ _ in sunglasses holds a blue cup next to a grill with sausages ."
+  },
+  {
+    "caption": "A young man in sunglasses holds a blue cup next to a grill with sausages .",
+    "rank_0": 13,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A young man in _ _ a blue cup next to a grill with sausages ."
+  },
+  {
+    "caption": "A young man in sunglasses holds a blue cup next to a grill with sausages .",
+    "rank_0": 13,
+    "better_rank": 0,
+    "k": 10,
+    "mask_used": "A young man in sunglasses holds a blue cup next to a _ _ _ ."
+  },
+  {
+    "caption": "A man stands by an elevator with his head down .",
+    "rank_0": 18,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "_ _ stands by an elevator with his head down ."
+  },
+  {
+    "caption": "A man stands by an elevator with his head down .",
+    "rank_0": 18,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A man _ _ _ elevator with his head down ."
+  },
+  {
+    "caption": "A man is sleeping on a bench near a bus stop .",
+    "rank_0": 12,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A man is _ _ _ _ _ near a bus stop ."
+  },
+  {
+    "caption": "A man with glasses is sitting a chair playing the oboe while a man in a purple shirt plays percussion and spectators look on .",
+    "rank_0": 16,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "A man with glasses is sitting a chair playing the oboe while a man in a _ _ plays percussion and spectators look on ."
+  },
+  {
+    "caption": "A man with glasses is sitting a chair playing the oboe while a man in a purple shirt plays percussion and spectators look on .",
+    "rank_0": 16,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "A man with glasses is sitting a chair playing the oboe while a man in a purple shirt plays percussion and _ _ ."
+  },
+  {
+    "caption": "A child playing on a rope net .",
+    "rank_0": 14,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A child _ _ a rope net ."
+  },
+  {
+    "caption": "A child playing on a rope net .",
+    "rank_0": 14,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "A child playing on a _ _ ."
+  },
+  {
+    "caption": "Two men sitting on a bench in front of a sign with a picture of man and a lady .",
+    "rank_0": 13,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "_ _ sitting on a bench in front of a sign with a picture of man and a lady ."
+  },
+  {
+    "caption": "Two men sitting on a bench in front of a sign with a picture of man and a lady .",
+    "rank_0": 13,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "Two men _ _ _ _ in front of a sign with a picture of man and a lady ."
+  },
+  {
+    "caption": "Two men sitting on a bench in front of a sign with a picture of man and a lady .",
+    "rank_0": 13,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "Two men sitting on a bench in front of a sign with a picture of _ _ _ _ _ ."
+  },
+  {
+    "caption": "A young man sits on the floor by the television with a fast food meal in front of him .",
+    "rank_0": 11,
+    "better_rank": 0,
+    "k": 10,
+    "mask_used": "_ _ _ sits on the floor by the television with a fast food meal in front of him ."
+  },
+  {
+    "caption": "A young man sits on the floor by the television with a fast food meal in front of him .",
+    "rank_0": 11,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "A young man sits on the floor by the television _ _ _ _ _ _ _ _ _ ."
+  },
+  {
+    "caption": "A young man sits on the floor by the television with a fast food meal in front of him .",
+    "rank_0": 11,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "A young man sits on the floor by the television with a fast food meal _ _ _ _ _ ."
+  },
+  {
+    "caption": "Couple with a baby sit outdoors next to their stroller .",
+    "rank_0": 15,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "Couple with a baby sit outdoors _ _ _ _ ."
+  },
+  {
+    "caption": "Couple with a baby sit outdoors next to their stroller .",
+    "rank_0": 15,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "_ _ _ _ sit outdoors next to their _ ."
+  },
+  {
+    "caption": "Hikers treks upward through the creek bed  stopping to catch their breath and enjoy the cool  green scenery .",
+    "rank_0": 15,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "Hikers treks upward through the creek bed stopping to catch their breath and enjoy the _ _ _."
+  },
+  {
+    "caption": "A person standing on a frozen lake .",
+    "rank_0": 11,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "_ _ standing on a frozen lake ."
+  },
+  {
+    "caption": "A person standing on a frozen lake .",
+    "rank_0": 11,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "A person standing on _ _ _ ."
+  },
+  {
+    "caption": "A balding man wearing a red life jacket is sitting in a small boat .",
+    "rank_0": 12,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A balding man _ _ _ _ _ is sitting in a small boat ."
+  },
+  {
+    "caption": "A balding man wearing a red life jacket is sitting in a small boat .",
+    "rank_0": 12,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "A balding man wearing a red life jacket _ _ _ _ _ _ _ ."
+  },
+  {
+    "caption": "A balding man wearing a red life jacket is sitting in a small boat .",
+    "rank_0": 12,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "A balding man wearing a red life jacket is sitting in a _ _ ."
+  },
+  {
+    "caption": "People gathered in a room to talk about their favorite tunes .",
+    "rank_0": 13,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "_ gathered in a room to talk about their favorite tunes ."
+  },
+  {
+    "caption": "People gathered in a room to talk about their favorite tunes .",
+    "rank_0": 13,
+    "better_rank": 1,
+    "k": 10,
+    "mask_used": "People gathered _ _ _ to talk about their favorite tunes ."
+  },
+  {
+    "caption": "A young girl on a train reads a book about train rides .",
+    "rank_0": 15,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A young girl _ _ _ reads a book about train rides ."
+  },
+  {
+    "caption": "Several men in hard hats are operating a giant pulley system .",
+    "rank_0": 14,
+    "better_rank": 2,
+    "k": 10,
+    "mask_used": "Several men in _ _ are operating a giant pulley system"
+  },
+  {
+    "caption": "A group of people picnicking at picnic tables in front of a playground .",
+    "rank_0": 12,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A group of people picnicking at picnic tables _ _ _ _ _ ."
+  },
+  {
+    "caption": "A group of snowmobile riders gather in the snow .",
+    "rank_0": 17,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A group of _ _ gather in the snow ."
+  },
+  {
+    "caption": "A group of snowmobile riders gather in the snow .",
+    "rank_0": 17,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A group of snowmobile riders _ _ _ _ ."
+  },
+  {
+    "caption": "A group of snowmobile riders gather in the snow .",
+    "rank_0": 17,
+    "better_rank": 8,
+    "k": 10,
+    "mask_used": "A group of snowmobile riders gather in the _ ."
+  },
+  {
+    "caption": "Some women are standing in front of a bus with buildings behind it .",
+    "rank_0": 13,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "_ _ are standing in front of a bus with buildings behind it ."
+  },
+  {
+    "caption": "Some women are standing in front of a bus with buildings behind it .",
+    "rank_0": 13,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "Some women are standing in front of _ _ _ _ buildings behind it ."
+  },
+  {
+    "caption": "The young gymnast 's supple body soars above the balance beam .",
+    "rank_0": 16,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "_ _ _ 's supple body soars above the balance beam ."
+  },
+  {
+    "caption": "The young gymnast 's supple body soars above the balance beam .",
+    "rank_0": 16,
+    "better_rank": 9,
+    "k": 10,
+    "mask_used": "The young gymnast 's _ _ soars above the balance beam ."
+  },
+  {
+    "caption": "A man with a badge is standing on a wood floor next to a structure .",
+    "rank_0": 17,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "_ _ _ a badge is standing on a wood floor next to a structure ."
+  },
+  {
+    "caption": "A man with a badge is standing on a wood floor next to a structure .",
+    "rank_0": 17,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A man with _ _ _ standing on a wood floor next to a structure ."
+  },
+  {
+    "caption": "A man with a badge is standing on a wood floor next to a structure .",
+    "rank_0": 17,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "A man with a badge is standing on a wood floor next to _ _ ."
+  },
+  {
+    "caption": "A dog leaps to catch a ball in a field .",
+    "rank_0": 15,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "_ _ leaps to catch a ball in a field ."
+  },
+  {
+    "caption": "A dog leaps to catch a ball in a field .",
+    "rank_0": 15,
+    "better_rank": 6,
+    "k": 10,
+    "mask_used": "A dog leaps to catch a ball _ _ _ ."
+  },
+  {
+    "caption": "A woman in a white shirt is sitting at a table in a nice restaurant .",
+    "rank_0": 15,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "A woman in a _ _ is sitting at a table in a nice restaurant ."
+  },
+  {
+    "caption": "A woman in a white shirt is sitting at a table in a nice restaurant .",
+    "rank_0": 15,
+    "better_rank": 7,
+    "k": 10,
+    "mask_used": "A woman in a white shirt _ _ _ _ _ _ in a nice restaurant ."
+  },
+  {
+    "caption": "Four people are jumping from the top of a flight of stairs .",
+    "rank_0": 17,
+    "better_rank": 4,
+    "k": 10,
+    "mask_used": "_ _ _ jumping from the top of a flight of stairs ."
+  },
+  {
+    "caption": "Four people are jumping from the top of a flight of stairs .",
+    "rank_0": 17,
+    "better_rank": 10,
+    "k": 10,
+    "mask_used": "Four people are _ _ _ _ _ _ _ _ _ _ _ _ ."
+  },
+  {
+    "caption": "Four people are jumping from the top of a flight of stairs .",
+    "rank_0": 17,
+    "better_rank": 3,
+    "k": 10,
+    "mask_used": "_ _ _ _ are jumping from the top of a flight of stairs ."
+  },
+  {
+    "caption": "The white and brown dog is running over the surface of the snow .",
+    "rank_0": 12,
+    "better_rank": 5,
+    "k": 10,
+    "mask_used": "_ _ _ _ dog is running over the surface of the snow ."
+  }
+]

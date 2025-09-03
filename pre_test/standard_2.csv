@@ -1,0 +1,2 @@
+file,rank0_recall@1,rank0_recall@5,rank0_recall@10,rank0_recall@20,mask_recall@1,mask_recall@5,mask_recall@10,mask_recall@20
+result_2,31.75%,58.52%,70.08%,79.83%,36.95%,63.56%,73.93%,83.58%

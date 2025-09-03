@@ -1,0 +1,2 @@
+file,rank0_recall@1,rank0_recall@5,rank0_recall@10,rank0_recall@20,mask_recall@1,mask_recall@5,mask_recall@10,mask_recall@20
+result_exact_fullrank_fixed,36.67%,61.59%,71.57%,81.29%,41.19%,65.72%,75.52%,84.47%
